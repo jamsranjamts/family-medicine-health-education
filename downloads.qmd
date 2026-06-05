@@ -1,309 +1,279 @@
 ---
-title: "QR татах"
-toc: false
+format: html
 ---
 
-::: {.brand-strip}
-![](assets/logo/logo-transparent.png){.brand-logo}
-:::
-
-# QR кодууд
-
-::: {.qr-grid}
-::: {.qr-card}
-![](qr/home.png){.qr-img}
-
-**Нүүр хуудас**
-
-[`home.png`](qr/home.png)
-:::
-
-::: {.qr-card}
-![](qr/stroke.png){.qr-img}
-
-**Тархины харвалт**
-
-[`stroke.png`](qr/stroke.png)
-:::
-
-::: {.qr-card}
-![](qr/heart-attack.png){.qr-img}
-
-**Зүрхний шигдээс**
-
-[`heart-attack.png`](qr/heart-attack.png)
-:::
-
-::: {.qr-card}
-![](qr/epilepsy.png){.qr-img}
-
-**Эпилепси**
-
-[`epilepsy.png`](qr/epilepsy.png)
-:::
-
-::: {.qr-card}
-![](qr/kidney-failure.png){.qr-img}
-
-**Бөөрний дутагдал**
-
-[`kidney-failure.png`](qr/kidney-failure.png)
-:::
-
-::: {.qr-card}
-![](qr/autism.png){.qr-img}
-
-**Аутизм**
-
-[`autism.png`](qr/autism.png)
-:::
-
-::: {.qr-card}
-![](qr/post-stroke-exercises.png){.qr-img}
-
-**Саажилтын дасгал**
-
-[`post-stroke-exercises.png`](qr/post-stroke-exercises.png)
-:::
-
-::: {.qr-card}
-![](qr/pressure-injury.png){.qr-img}
-
-**Холголт, цооролт**
-
-[`pressure-injury.png`](qr/pressure-injury.png)
-:::
-
-::: {.qr-card}
-![](qr/downloads.png){.qr-img}
-
-**QR татах**
-
-[`downloads.png`](qr/downloads.png)
-:::
-
-::: {.qr-card}
-![](qr/references.png){.qr-img}
-
-**Эх сурвалж**
-
-[`references.png`](qr/references.png)
-:::
-
-::: {.qr-card}
-![](qr/stroke-be-fast.png){.qr-img}
-
-**B.E.F.A.S.T**
-
-[`stroke-be-fast.png`](qr/stroke-be-fast.png)
-:::
-
-::: {.qr-card}
-![](qr/stroke-warning.png){.qr-img}
-
-**Анхаарах шинж**
-
-[`stroke-warning.png`](qr/stroke-warning.png)
-:::
-
-::: {.qr-card}
-![](qr/stroke-action.png){.qr-img}
-
-**Яаралтай авах арга хэмжээ**
-
-[`stroke-action.png`](qr/stroke-action.png)
-:::
-
-::: {.qr-card}
-![](qr/stroke-prevention.png){.qr-img}
-
-**Урьдчилан сэргийлэлт**
-
-[`stroke-prevention.png`](qr/stroke-prevention.png)
-:::
-
-::: {.qr-card}
-![](qr/heart-symptoms.png){.qr-img}
-
-**Анхаарах шинж**
-
-[`heart-symptoms.png`](qr/heart-symptoms.png)
-:::
-
-::: {.qr-card}
-![](qr/heart-call.png){.qr-img}
-
-**103 дуудах**
-
-[`heart-call.png`](qr/heart-call.png)
-:::
-
-::: {.qr-card}
-![](qr/heart-prevention.png){.qr-img}
-
-**Урьдчилан сэргийлэлт**
-
-[`heart-prevention.png`](qr/heart-prevention.png)
-:::
-
-::: {.qr-card}
-![](qr/epilepsy-firstaid.png){.qr-img}
-
-**Таталтын үед**
-
-[`epilepsy-firstaid.png`](qr/epilepsy-firstaid.png)
-:::
-
-::: {.qr-card}
-![](qr/epilepsy-dont.png){.qr-img}
-
-**Хийж болохгүй**
-
-[`epilepsy-dont.png`](qr/epilepsy-dont.png)
-:::
-
-::: {.qr-card}
-![](qr/epilepsy-call.png){.qr-img}
-
-**103 дуудах**
-
-[`epilepsy-call.png`](qr/epilepsy-call.png)
-:::
-
-::: {.qr-card}
-![](qr/kidney-risk.png){.qr-img}
-
-**Эрсдэлт хүчин зүйл**
-
-[`kidney-risk.png`](qr/kidney-risk.png)
-:::
-
-::: {.qr-card}
-![](qr/kidney-tests.png){.qr-img}
-
-**Хяналтын шинжилгээ**
-
-[`kidney-tests.png`](qr/kidney-tests.png)
-:::
-
-::: {.qr-card}
-![](qr/kidney-prevention.png){.qr-img}
-
-**Урьдчилан сэргийлэлт**
-
-[`kidney-prevention.png`](qr/kidney-prevention.png)
-:::
-
-::: {.qr-card}
-![](qr/autism-signs.png){.qr-img}
-
-**Анзаарах шинж**
-
-[`autism-signs.png`](qr/autism-signs.png)
-:::
-
-::: {.qr-card}
-![](qr/autism-speech.png){.qr-img}
-
-**Хэл засал**
-
-[`autism-speech.png`](qr/autism-speech.png)
-:::
-
-::: {.qr-card}
-![](qr/autism-movement.png){.qr-img}
-
-**Хөдөлгөөн засал**
-
-[`autism-movement.png`](qr/autism-movement.png)
-:::
-
-::: {.qr-card}
-![](qr/autism-occupation.png){.qr-img}
-
-**Хөдөлмөр засал**
-
-[`autism-occupation.png`](qr/autism-occupation.png)
-:::
-
-::: {.qr-card}
-![](qr/exercise-safety.png){.qr-img}
-
-**Аюулгүй байдал**
-
-[`exercise-safety.png`](qr/exercise-safety.png)
-:::
-
-::: {.qr-card}
-![](qr/exercise-arm.png){.qr-img}
-
-**Гарын дасгал**
-
-[`exercise-arm.png`](qr/exercise-arm.png)
-:::
-
-::: {.qr-card}
-![](qr/exercise-trunk.png){.qr-img}
-
-**Их бие**
-
-[`exercise-trunk.png`](qr/exercise-trunk.png)
-:::
-
-::: {.qr-card}
-![](qr/exercise-leg.png){.qr-img}
-
-**Хөлийн дасгал**
-
-[`exercise-leg.png`](qr/exercise-leg.png)
-:::
-
-::: {.qr-card}
-![](qr/pressure-what.png){.qr-img}
-
-**Ойлголт**
-
-[`pressure-what.png`](qr/pressure-what.png)
-:::
-
-::: {.qr-card}
-![](qr/pressure-prevention.png){.qr-img}
-
-**Урьдчилан сэргийлэлт**
-
-[`pressure-prevention.png`](qr/pressure-prevention.png)
-:::
-
-::: {.qr-card}
-![](qr/pressure-warning.png){.qr-img}
-
-**Анхаарах шинж**
-
-[`pressure-warning.png`](qr/pressure-warning.png)
-:::
-
-::: {.qr-card}
-![](qr/pressure-position.png){.qr-img}
-
-**Байрлал солих**
-
-[`pressure-position.png`](qr/pressure-position.png)
-:::
-:::
-
-# Хэвлэх A4 хувилбарууд
-
-- [Тархины харвалт хэвлэх хувилбар](print/stroke-print.html)
-- [Зүрхний шигдээс хэвлэх хувилбар](print/heart-attack-print.html)
-- [Эпилепси хэвлэх хувилбар](print/epilepsy-print.html)
-- [Бөөрний дутагдал хэвлэх хувилбар](print/kidney-failure-print.html)
-- [Аутизм хэвлэх хувилбар](print/autism-print.html)
-- [Саажилтын дасгал хэвлэх хувилбар](print/post-stroke-exercises-print.html)
-- [Холголт, цооролт хэвлэх хувилбар](print/pressure-injury-print.html)
-- [Бүх QR хэвлэх хувилбар](print/all-qr-print.html)
-
-::: {.footer-note}
-**© АШУҮИС, оюутан Ш.Жамсранжамц**  
-Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 дуудна уу.
-:::
+<div class="hero"><div class="hero-top"><img class="brand-logo" src="assets/logo/logo-transparent.png"><div><h1>QR кодууд</h1><p>Үндсэн сэдэв болон дэд хэсэг бүрийн QR код. Хэвлэхэд тохиромжтой PNG байдлаар татаж авна.</p></div></div></div>
+## Үндсэн QR кодууд
+<div class="qr-grid">
+<div class="qr-card">
+<img src="qr/home.png" alt="Нүүр хуудас">
+<h3>Нүүр хуудас</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн</p>
+<a href="qr/home.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/stroke.png" alt="Тархины цус харвалт">
+<h3>Тархины цус харвалт</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн сэдэв</p>
+<a href="qr/stroke.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/heart-attack.png" alt="Зүрхний шигдээс">
+<h3>Зүрхний шигдээс</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн сэдэв</p>
+<a href="qr/heart-attack.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/epilepsy.png" alt="Эпилепси">
+<h3>Эпилепси</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн сэдэв</p>
+<a href="qr/epilepsy.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/kidney-failure.png" alt="Бөөрний дутагдал">
+<h3>Бөөрний дутагдал</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн сэдэв</p>
+<a href="qr/kidney-failure.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/autism.png" alt="Аутизм ба засал">
+<h3>Аутизм ба засал</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн сэдэв</p>
+<a href="qr/autism.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/post-stroke-exercises.png" alt="Саажилтын үеийн дасгал">
+<h3>Саажилтын үеийн дасгал</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн сэдэв</p>
+<a href="qr/post-stroke-exercises.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/pressure-injury.png" alt="Холголт, цооролт">
+<h3>Холголт, цооролт</h3>
+<p style="color:#64748b;font-size:13px;">Үндсэн сэдэв</p>
+<a href="qr/pressure-injury.png" download>QR татах</a>
+</div>
+
+</div>
+## Дэд хэсгийн QR кодууд
+<div class="qr-grid">
+<div class="qr-card">
+<img src="qr/stroke-oilgolt.png" alt="Тархины цус харвалт — Товч ойлголт">
+<h3>Тархины цус харвалт — Товч ойлголт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/stroke-oilgolt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/stroke-fast.png" alt="Тархины цус харвалт — FAST арга">
+<h3>Тархины цус харвалт — FAST арга</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/stroke-fast.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/stroke-yaraltai.png" alt="Тархины цус харвалт — Яаралтай 103 дуудах шинж">
+<h3>Тархины цус харвалт — Яаралтай 103 дуудах шинж</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/stroke-yaraltai.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/stroke-sergiilelt.png" alt="Тархины цус харвалт — Урьдчилан сэргийлэлт">
+<h3>Тархины цус харвалт — Урьдчилан сэргийлэлт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/stroke-sergiilelt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/heart-attack-oilgolt.png" alt="Зүрхний шигдээс — Товч ойлголт">
+<h3>Зүрхний шигдээс — Товч ойлголт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/heart-attack-oilgolt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/heart-attack-shinj.png" alt="Зүрхний шигдээс — Аюултай шинж">
+<h3>Зүрхний шигдээс — Аюултай шинж</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/heart-attack-shinj.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/heart-attack-yu-hiih.png" alt="Зүрхний шигдээс — Гэртээ юу хийх вэ?">
+<h3>Зүрхний шигдээс — Гэртээ юу хийх вэ?</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/heart-attack-yu-hiih.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/heart-attack-sergiilelt.png" alt="Зүрхний шигдээс — Урьдчилан сэргийлэлт">
+<h3>Зүрхний шигдээс — Урьдчилан сэргийлэлт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/heart-attack-sergiilelt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/epilepsy-oilgolt.png" alt="Эпилепси — Товч ойлголт">
+<h3>Эпилепси — Товч ойлголт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/epilepsy-oilgolt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/epilepsy-tuslamj.png" alt="Эпилепси — Таталтын үед авах арга хэмжээ">
+<h3>Эпилепси — Таталтын үед авах арга хэмжээ</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/epilepsy-tuslamj.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/epilepsy-bolohgui.png" alt="Эпилепси — Хийж болохгүй зүйл">
+<h3>Эпилепси — Хийж болохгүй зүйл</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/epilepsy-bolohgui.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/epilepsy-yaraltai.png" alt="Эпилепси — Хэзээ 103 дуудах вэ?">
+<h3>Эпилепси — Хэзээ 103 дуудах вэ?</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/epilepsy-yaraltai.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/kidney-failure-oilgolt.png" alt="Бөөрний дутагдал — Товч ойлголт">
+<h3>Бөөрний дутагдал — Товч ойлголт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/kidney-failure-oilgolt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/kidney-failure-ersdel.png" alt="Бөөрний дутагдал — Эрсдэлт хүчин зүйл">
+<h3>Бөөрний дутагдал — Эрсдэлт хүчин зүйл</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/kidney-failure-ersdel.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/kidney-failure-shinjilgee.png" alt="Бөөрний дутагдал — Хяналтын шинжилгээ">
+<h3>Бөөрний дутагдал — Хяналтын шинжилгээ</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/kidney-failure-shinjilgee.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/kidney-failure-sergiilelt.png" alt="Бөөрний дутагдал — Урьдчилан сэргийлэлт">
+<h3>Бөөрний дутагдал — Урьдчилан сэргийлэлт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/kidney-failure-sergiilelt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/autism-oilgolt.png" alt="Аутизм ба засал — Товч ойлголт">
+<h3>Аутизм ба засал — Товч ойлголт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/autism-oilgolt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/autism-hel-zasal.png" alt="Аутизм ба засал — Хэл засал">
+<h3>Аутизм ба засал — Хэл засал</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/autism-hel-zasal.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/autism-hudulguun.png" alt="Аутизм ба засал — Хөдөлгөөн засал">
+<h3>Аутизм ба засал — Хөдөлгөөн засал</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/autism-hudulguun.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/autism-hudulmur.png" alt="Аутизм ба засал — Хөдөлмөр засал">
+<h3>Аутизм ба засал — Хөдөлмөр засал</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/autism-hudulmur.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/post-stroke-exercises-ankhaaral.png" alt="Саажилтын үеийн дасгал — Эхлэхийн өмнө">
+<h3>Саажилтын үеийн дасгал — Эхлэхийн өмнө</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/post-stroke-exercises-ankhaaral.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/post-stroke-exercises-gar.png" alt="Саажилтын үеийн дасгал — Гарын дасгал">
+<h3>Саажилтын үеийн дасгал — Гарын дасгал</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/post-stroke-exercises-gar.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/post-stroke-exercises-hul.png" alt="Саажилтын үеийн дасгал — Хөлийн дасгал">
+<h3>Саажилтын үеийн дасгал — Хөлийн дасгал</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/post-stroke-exercises-hul.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/post-stroke-exercises-tentsver.png" alt="Саажилтын үеийн дасгал — Тэнцвэр ба шилжилт">
+<h3>Саажилтын үеийн дасгал — Тэнцвэр ба шилжилт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/post-stroke-exercises-tentsver.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/pressure-injury-oilgolt.png" alt="Холголт, цооролт — Товч ойлголт">
+<h3>Холголт, цооролт — Товч ойлголт</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/pressure-injury-oilgolt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/pressure-injury-ersdel.png" alt="Холголт, цооролт — Эрсдэлтэй хэсэг">
+<h3>Холголт, цооролт — Эрсдэлтэй хэсэг</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/pressure-injury-ersdel.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/pressure-injury-sergiilelt.png" alt="Холголт, цооролт — Урьдчилан сэргийлэх">
+<h3>Холголт, цооролт — Урьдчилан сэргийлэх</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/pressure-injury-sergiilelt.png" download>QR татах</a>
+</div>
+
+<div class="qr-card">
+<img src="qr/pressure-injury-emchid.png" alt="Холголт, цооролт — Хэзээ эмчид хандах вэ?">
+<h3>Холголт, цооролт — Хэзээ эмчид хандах вэ?</h3>
+<p style="color:#64748b;font-size:13px;">Дэд хэсэг</p>
+<a href="qr/pressure-injury-emchid.png" download>QR татах</a>
+</div>
+
+</div>
+## A4 хэвлэх хувилбарууд
+<div class="topic-grid">
+<div class="topic-card"><h3>Тархины цус харвалт</h3><p>A4 цаасан дээр хэвлэхэд тохиромжтой товч зөвлөмж.</p><a class="btn-main" href="print/stroke-print.html">Хэвлэх хувилбар</a></div>
+<div class="topic-card"><h3>Зүрхний шигдээс</h3><p>A4 цаасан дээр хэвлэхэд тохиромжтой товч зөвлөмж.</p><a class="btn-main" href="print/heart-attack-print.html">Хэвлэх хувилбар</a></div>
+<div class="topic-card"><h3>Эпилепси</h3><p>A4 цаасан дээр хэвлэхэд тохиромжтой товч зөвлөмж.</p><a class="btn-main" href="print/epilepsy-print.html">Хэвлэх хувилбар</a></div>
+<div class="topic-card"><h3>Бөөрний дутагдал</h3><p>A4 цаасан дээр хэвлэхэд тохиромжтой товч зөвлөмж.</p><a class="btn-main" href="print/kidney-failure-print.html">Хэвлэх хувилбар</a></div>
+<div class="topic-card"><h3>Аутизм ба засал</h3><p>A4 цаасан дээр хэвлэхэд тохиромжтой товч зөвлөмж.</p><a class="btn-main" href="print/autism-print.html">Хэвлэх хувилбар</a></div>
+<div class="topic-card"><h3>Саажилтын үеийн дасгал</h3><p>A4 цаасан дээр хэвлэхэд тохиромжтой товч зөвлөмж.</p><a class="btn-main" href="print/post-stroke-exercises-print.html">Хэвлэх хувилбар</a></div>
+<div class="topic-card"><h3>Холголт, цооролт</h3><p>A4 цаасан дээр хэвлэхэд тохиромжтой товч зөвлөмж.</p><a class="btn-main" href="print/pressure-injury-print.html">Хэвлэх хувилбар</a></div>
+</div>
+<div class="footer-note">
+<p><strong>Нинжин манал ӨЭМТ</strong></p>
+<p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
+<p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 

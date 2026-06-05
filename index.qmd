@@ -1,75 +1,74 @@
 ---
-title: "Нинжин манал ӨЭМТ"
+format: html
 ---
 
-::: {.brand-strip}
-![](assets/logo/logo-transparent.png){.brand-logo}
-:::
+<div class="hero"><div class="hero-top"><img class="brand-logo" src="assets/logo/logo-transparent.png"><div><h1>Нинжин манал ӨЭМТ</h1><p>Өрхийн эмнэлгээс иргэдэд зориулсан эрүүл мэндийн боловсролын цахим зөвлөмж. QR код уншуулаад хаанаас ч үзэх боломжтой.</p></div></div><div class="hero-badges"><span class="badge-soft">QR-аар уншина</span><span class="badge-soft">A4 хэвлэх боломжтой</span><span class="badge-soft">Иргэдэд ойлгомжтой</span></div></div>
 
-::: {.hero-card}
+<div class="info-box"><strong>Анхааруулга:</strong> Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</div>
 
-# Нинжин манал ӨЭМТ
+## Сэдвүүд
 
-Өрхийн эрүүл мэндийн төвөөс олон нийтэд зориулсан эрүүл мэндийн боловсролын QR сайт.
+<div class="topic-grid">
+<div class="topic-card">
+<img src="assets/illustrations/stroke-fast.svg" alt="Тархины цус харвалт">
+<h3>Тархины цус харвалт</h3>
+<p>FAST аргаар шинжийг таньж, цаг алдалгүй 103 дуудна.</p>
+<a class="btn-main" href="stroke.html">Дэлгэрэнгүй</a>
+<a class="btn-secondary" href="print/stroke-print.html">A4 хэвлэх</a>
+</div>
 
-![](assets/images/qr-codes.png){.hero-image}
+<div class="topic-card">
+<img src="assets/illustrations/heart-attack-warning.svg" alt="Зүрхний шигдээс">
+<h3>Зүрхний шигдээс</h3>
+<p>Цээж базлах, амьсгаадах, хүйтэн хөлс гарах үед яаралтай тусламж дуудна.</p>
+<a class="btn-main" href="heart-attack.html">Дэлгэрэнгүй</a>
+<a class="btn-secondary" href="print/heart-attack-print.html">A4 хэвлэх</a>
+</div>
 
-:::
+<div class="topic-card">
+<img src="assets/illustrations/epilepsy-first-aid.svg" alt="Эпилепси">
+<h3>Эпилепси</h3>
+<p>Таталтын үед хүнийг хамгаалж, хажуу тийш харуулж, аманд зүйл хийхгүй.</p>
+<a class="btn-main" href="epilepsy.html">Дэлгэрэнгүй</a>
+<a class="btn-secondary" href="print/epilepsy-print.html">A4 хэвлэх</a>
+</div>
 
+<div class="topic-card">
+<img src="assets/illustrations/kidney-monitoring.svg" alt="Бөөрний дутагдал">
+<h3>Бөөрний дутагдал</h3>
+<p>Даралт, сахар, шээс, креатининыг тогтмол хянах нь бөөр хамгаална.</p>
+<a class="btn-main" href="kidney-failure.html">Дэлгэрэнгүй</a>
+<a class="btn-secondary" href="print/kidney-failure-print.html">A4 хэвлэх</a>
+</div>
 
-::: {.home-grid}
-[![](assets/images/stroke-fast.png)
+<div class="topic-card">
+<img src="assets/illustrations/autism-therapy.svg" alt="Аутизм ба засал">
+<h3>Аутизм ба засал</h3>
+<p>Хүүхдийн харилцаа, хэл яриа, хөдөлгөөн, өдөр тутмын чадварыг эрт дэмжинэ.</p>
+<a class="btn-main" href="autism.html">Дэлгэрэнгүй</a>
+<a class="btn-secondary" href="print/autism-print.html">A4 хэвлэх</a>
+</div>
 
-**Тархины цус харвалт**
+<div class="topic-card">
+<img src="assets/illustrations/post-stroke-exercises.svg" alt="Саажилтын үеийн дасгал">
+<h3>Саажилтын үеийн дасгал</h3>
+<p>Харвалтын дараах дасгалыг аюулгүй, бага багаар, тогтмол хийдэг.</p>
+<a class="btn-main" href="post-stroke-exercises.html">Дэлгэрэнгүй</a>
+<a class="btn-secondary" href="print/post-stroke-exercises-print.html">A4 хэвлэх</a>
+</div>
 
-Дэлгэрэнгүй](stroke.qmd){.home-card}
+<div class="topic-card">
+<img src="assets/illustrations/pressure-injury-care.svg" alt="Холголт, цооролт">
+<h3>Холголт, цооролт</h3>
+<p>Байрлал солих, арьсаа шалгах, хуурай цэвэр байлгах нь хамгийн чухал.</p>
+<a class="btn-main" href="pressure-injury.html">Дэлгэрэнгүй</a>
+<a class="btn-secondary" href="print/pressure-injury-print.html">A4 хэвлэх</a>
+</div>
 
-[![](assets/images/heart-warning.png)
-
-**Зүрхний шигдээс**
-
-Дэлгэрэнгүй](heart-attack.qmd){.home-card}
-
-[![](assets/images/epilepsy-first-aid.png)
-
-**Эпилепси**
-
-Дэлгэрэнгүй](epilepsy.qmd){.home-card}
-
-[![](assets/images/kidney-care.png)
-
-**Бөөрний дутагдал**
-
-Дэлгэрэнгүй](kidney-failure.qmd){.home-card}
-
-[![](assets/images/autism-therapy.png)
-
-**Аутизм**
-
-Дэлгэрэнгүй](autism.qmd){.home-card}
-
-[![](assets/images/post-stroke-exercise.png)
-
-**Саажилтын дасгал**
-
-Дэлгэрэнгүй](post-stroke-exercises.qmd){.home-card}
-
-[![](assets/images/pressure-injury-care.png)
-
-**Холголт, цооролт**
-
-Дэлгэрэнгүй](pressure-injury.qmd){.home-card}
-
-[![](assets/images/qr-codes.png)
-
-**QR кодууд**
-
-Татах](downloads.qmd){.home-card}
-:::
-
-
-::: {.footer-note}
-**© АШУҮИС, оюутан Ш.Жамсранжамц**  
-Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 дуудна уу.
-:::
+</div>
+<div class="footer-note">
+<p><strong>Нинжин манал ӨЭМТ</strong></p>
+<p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
+<p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 

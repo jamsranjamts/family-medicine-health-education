@@ -1,27 +1,20 @@
 ---
-title: "Эх сурвалж"
+format: html
 ---
 
-::: {.brand-strip}
-![](assets/logo/logo-transparent.png){.brand-logo}
-:::
+# Эх сурвалж ба санамж
 
-# Эх сурвалж
-
-Энэхүү сайт нь олон нийтийн эрүүл мэндийн боловсролд зориулсан бөгөөд дараах нээлттэй, мэргэжлийн эх сурвалжуудын иргэдэд зориулсан мэдээллийн зарчимд нийцүүлэн боловсруулав.
-
-- American Stroke Association. Stroke symptoms and B.E. F.A.S.T. warning signs. <https://www.stroke.org/en/about-stroke/stroke-symptoms>
-- American Heart Association. Warning signs of a heart attack. <https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack>
-- CDC. First Aid for Seizures. <https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html>
-- National Kidney Foundation. CKD risk factors, testing, and prevention. <https://www.kidney.org/kidney-topics/risk-factors-chronic-kidney-disease>
-- CDC. Signs and Symptoms of Autism Spectrum Disorder. <https://www.cdc.gov/autism/signs-symptoms/index.html>
-- American Stroke Association. Post-stroke exercise and rehabilitation resources. <https://www.stroke.org/en/life-after-stroke/stroke-rehab/post-stroke-exercise-videos>
-- MedlinePlus. Pressure injuries. <https://medlineplus.gov/pressureinjuries.html>
-
-
-
-::: {.footer-note}
-**© АШУҮИС, оюутан Ш.Жамсранжамц**  
-Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 дуудна уу.
-:::
+<div class="section-card">
+<h2>Ашигласан чиглэл</h2>
+<p>Энэхүү цахим зөвлөмж нь өрхийн анагаах ухааны түвшинд иргэдэд ойлгомжтой байдлаар боловсруулсан олон нийтийн эрүүл мэндийн боловсролын материал юм. Яаралтай шинж, анхны тусламж, урьдчилан сэргийлэлтийн хэсгүүдийг олон улсад нийтлэг хэрэглэгддэг эрүүл мэндийн боловсролын зарчимд нийцүүлэв.</p>
+</div>
+<div class="section-card">
+<h2>Санамж</h2>
+<p>Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
+<div class="footer-note">
+<p><strong>Нинжин манал ӨЭМТ</strong></p>
+<p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
+<p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 
