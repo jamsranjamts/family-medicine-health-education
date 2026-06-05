@@ -1,0 +1,100 @@
+---
+title: "QR татах"
+subtitle: "Сайтын хуудас болон A4 хэвлэх хувилбарын QR кодууд"
+---
+
+## Сайтын нүүр болон сэдэв тус бүрийн QR
+
+<div class="qr-grid">
+<div class="qr-card">
+<img src="qr/home.png" alt="QR">
+<h3>Нүүр хуудас</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/index.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/stroke.png" alt="QR">
+<h3>Тархины цус харвалт</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/stroke.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/heart-attack.png" alt="QR">
+<h3>Зүрхний шигдээс</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/heart-attack.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/epilepsy.png" alt="QR">
+<h3>Эпилепси</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/epilepsy.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/kidney-failure.png" alt="QR">
+<h3>Бөөрний дутагдал</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/kidney-failure.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/autism.png" alt="QR">
+<h3>Аутизм ба дэмжих засал</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/autism.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/post-stroke-exercises.png" alt="QR">
+<h3>Харвалтын дараах дасгал</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/post-stroke-exercises.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/pressure-injury.png" alt="QR">
+<h3>Холголт, цооролт</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/pressure-injury.html</small>
+</div>
+</div>
+
+## A4 хэвлэх хувилбаруудын QR
+
+<div class="qr-grid">
+<div class="qr-card">
+<img src="qr/stroke-print.png" alt="QR">
+<h3>Тархины цус харвалт — A4 хэвлэх</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/print/stroke-print.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/heart-attack-print.png" alt="QR">
+<h3>Зүрхний шигдээс — A4 хэвлэх</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/print/heart-attack-print.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/epilepsy-print.png" alt="QR">
+<h3>Эпилепси — A4 хэвлэх</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/print/epilepsy-print.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/kidney-failure-print.png" alt="QR">
+<h3>Бөөрний дутагдал — A4 хэвлэх</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/print/kidney-failure-print.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/autism-print.png" alt="QR">
+<h3>Аутизм ба дэмжих засал — A4 хэвлэх</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/print/autism-print.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/post-stroke-exercises-print.png" alt="QR">
+<h3>Харвалтын дараах дасгал — A4 хэвлэх</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/print/post-stroke-exercises-print.html</small>
+</div>
+<div class="qr-card">
+<img src="qr/pressure-injury-print.png" alt="QR">
+<h3>Холголт, цооролт — A4 хэвлэх</h3>
+<small>https://jamsranjamts.github.io/family-medicine-health-education/print/pressure-injury-print.html</small>
+</div>
+</div>
+
+
+<div class="site-footer">
+<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
+<div>
+<p><strong>Нинжин манал ӨЭМТ</strong></p>
+<p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
+<p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
+</div>
+

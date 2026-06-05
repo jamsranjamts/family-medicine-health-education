@@ -1,37 +1,81 @@
 ---
-format: html
+title: "Аутизм ба дэмжих засал"
+subtitle: "Нинжин манал ӨЭМТ — иргэдэд зориулсан товч зөвлөмж"
 ---
 
-<div class="page-head"><div class="page-head-inner"><div><h1>Аутизм ба засал</h1><p>Хүүхдийн харилцаа, хэл яриа, хөдөлгөөн, өдөр тутмын чадварыг эрт дэмжинэ.</p><a class="btn-main" href="qr/autism.png">Энэ сэдвийн QR татах</a> <a class="btn-secondary" href="print/autism-print.html">A4 хэвлэх</a></div><div><img src="assets/illustrations/autism-therapy.svg" alt="Аутизм ба засал"></div></div></div>
-<div class="subnav"><div class="subnav-title">Энэ хуудсанд</div>
-<a class="btn-secondary" href="#oilgolt">Товч ойлголт</a>
-<a class="btn-secondary" href="#hel-zasal">Хэл засал</a>
-<a class="btn-secondary" href="#hudulguun">Хөдөлгөөн засал</a>
-<a class="btn-secondary" href="#hudulmur">Хөдөлмөр засал</a>
+<div class="section-box">
+
+<strong>Товч санаа:</strong> Хэл яриа, харилцаа, хөдөлгөөн, өдөр тутмын чадварыг эрт үеэс дэмжих нь хүүхдийн хөгжилд чухал.
+
 </div>
-<section id="oilgolt" class="section-card" style="border-left-color:#2563eb">
-<h2>Товч ойлголт</h2>
-<p>Аутизмын хүрээний эмгэг нь харилцаа, нийгмийн харилцан үйлдэл, давтагдмал зан үйлээр илэрч болох хөгжлийн онцлог юм. Эрт илрүүлэлт, тогтмол дэмжлэг чухал.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="hel-zasal" class="section-card" style="border-left-color:#2563eb">
-<h2>Хэл засал</h2>
-<p>Хэл засал нь хүүхдийн ойлгох, илэрхийлэх, ээлжлэн харилцах, дохио зангаа, үг хэллэгийн чадварыг өдөр тутмын орчинд хөгжүүлэхэд чиглэнэ.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="hudulguun" class="section-card" style="border-left-color:#2563eb">
-<h2>Хөдөлгөөн засал</h2>
-<p>Хөдөлгөөн засал нь тэнцвэр, биеийн байрлал, хөдөлгөөний зохицуулалт, булчингийн хүч, орчныг мэдрэх чадварыг дэмжинэ.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="hudulmur" class="section-card" style="border-left-color:#2563eb">
-<h2>Хөдөлмөр засал</h2>
-<p>Хөдөлмөр засал нь хувцаслах, хооллох, бичих, тоглох, анхаарал төвлөрүүлэх, мэдрэхүйн зохицуулалт зэрэг өдөр тутмын чадварыг хөгжүүлнэ.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<div class="footer-note">
+
+<div class="qr-card no-print" style="max-width:230px;float:right;margin:0 0 1rem 1rem;">
+<img src="qr/autism.png" alt="QR">
+<small>Энэ хуудсыг QR-аар унших</small>
+</div>
+
+
+
+<div class="section-box" id="">
+
+## Товч ойлголт
+
+Аутизмын хүрээний эмгэг нь хүүхдийн харилцаа, нийгмийн харилцан үйлчлэл, зан үйл, мэдрэхүйн онцлогтой холбоотой хөгжлийн ялгаатай байдал юм.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Эрт анзаарах шинж
+
+Нэрээр дуудахад хариулахгүй байх, нүдээр харилцах нь бага байх, хэл яриа хоцрох, тоглоомыг давтамжтай нэг хэвээр ашиглах, өөрчлөлтөд хүчтэй хариу үзүүлэх зэрэг шинж ажиглагдаж болно.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Хэл засал
+
+Хэл яриа, ойлголт, заах, хүсэлт илэрхийлэх, ээлжлэн харилцах чадварыг хөгжүүлэхэд чиглэнэ. Эцэг эх гэртээ өдөр бүр богино, тогтмол дасгал хэлбэрээр дэмжих нь үр дүнтэй.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Хөдөлгөөн ба хөдөлмөр засал
+
+Том болон жижиг хөдөлгөөн, гарын эв дүй, хувцаслах, хооллох, тоглох, өдөр тутмын үйл ажиллагаанд оролцох чадварыг хөгжүүлнэ.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Гэр бүлийн дэмжлэг
+
+Тогтмол өдөр тутмын хуваарь, тайван орчин, эерэг урамшуулал, хүүхдийн сонирхолд тулгуурласан харилцаа, олон мэргэжлийн багийн хамтын ажиллагаа чухал.
+
+</div>
+
+
+<div class="section-box no-print">
+
+## Хэвлэх хувилбар
+
+<a class="print-link" href="print/autism-print.html">A4 хэвлэх хувилбар нээх</a>
+
+</div>
+
+
+<div class="site-footer">
+<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
+<div>
 <p><strong>Нинжин манал ӨЭМТ</strong></p>
 <p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
 <p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 </div>
 

@@ -1,35 +1,38 @@
+
 project:
   type: website
   output-dir: docs
+  render:
+    - "*.qmd"
+    - "print/*.qmd"
 
 website:
   title: "Нинжин манал ӨЭМТ"
   navbar:
-    logo: assets/logo/logo-transparent.png
+    logo: "assets/logo/ninjin_manal_logo.png"
+    title: "Нинжин манал ӨЭМТ"
+    background: light
     left:
-      - href: index.qmd
-        text: Нүүр
-      - href: stroke.qmd
-        text: Тархины харвалт
-      - href: heart-attack.qmd
-        text: Зүрхний шигдээс
-      - href: epilepsy.qmd
-        text: Эпилепси
-      - href: kidney-failure.qmd
-        text: Бөөр
-      - href: autism.qmd
-        text: Аутизм
-      - href: post-stroke-exercises.qmd
-        text: Дасгал
-      - href: pressure-injury.qmd
-        text: Холголт
-      - href: downloads.qmd
-        text: QR татах
-      - href: references.qmd
-        text: Эх сурвалж
-  page-footer:
-    left: "© АШУҮИС, оюутан Ш.Жамсранжамц"
-    right: "Нинжин манал ӨЭМТ"
+      - text: "Нүүр"
+        href: index.qmd
+      - text: "Тархины харвалт"
+        href: stroke.qmd
+      - text: "Зүрхний шигдээс"
+        href: heart-attack.qmd
+      - text: "Эпилепси"
+        href: epilepsy.qmd
+      - text: "Бөөр"
+        href: kidney-failure.qmd
+      - text: "Аутизм"
+        href: autism.qmd
+      - text: "Дасгал"
+        href: post-stroke-exercises.qmd
+      - text: "Холголт"
+        href: pressure-injury.qmd
+      - text: "QR татах"
+        href: qr-codes.qmd
+      - text: "Эх сурвалж"
+        href: references.qmd
 
 format:
   html:
@@ -38,5 +41,6 @@ format:
     toc: true
     toc-location: right
     page-layout: full
+    lang: mn
     smooth-scroll: true
 

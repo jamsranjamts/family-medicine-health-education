@@ -1,37 +1,81 @@
 ---
-format: html
+title: "Холголт, цооролт"
+subtitle: "Нинжин манал ӨЭМТ — иргэдэд зориулсан товч зөвлөмж"
 ---
 
-<div class="page-head"><div class="page-head-inner"><div><h1>Холголт, цооролт</h1><p>Байрлал солих, арьсаа шалгах, хуурай цэвэр байлгах нь хамгийн чухал.</p><a class="btn-main" href="qr/pressure-injury.png">Энэ сэдвийн QR татах</a> <a class="btn-secondary" href="print/pressure-injury-print.html">A4 хэвлэх</a></div><div><img src="assets/illustrations/pressure-injury-care.svg" alt="Холголт, цооролт"></div></div></div>
-<div class="subnav"><div class="subnav-title">Энэ хуудсанд</div>
-<a class="btn-secondary" href="#oilgolt">Товч ойлголт</a>
-<a class="btn-secondary" href="#ersdel">Эрсдэлтэй хэсэг</a>
-<a class="btn-secondary" href="#sergiilelt">Урьдчилан сэргийлэх</a>
-<a class="btn-secondary" href="#emchid">Хэзээ эмчид хандах вэ?</a>
+<div class="section-box">
+
+<strong>Товч санаа:</strong> Удаан хэвтрийн үед арьс дарагдахаас сэргийлж байрлал солих, арьсыг шалгах, хуурай цэвэр байлгах.
+
 </div>
-<section id="oilgolt" class="section-card" style="border-left-color:#ea580c">
-<h2>Товч ойлголт</h2>
-<p>Холголт, цооролт нь нэг хэсэг газар удаан дарагдсанаас арьс болон доорх эд гэмтэхийг хэлнэ. Хэвтрийн, хөдөлгөөн хязгаарлагдсан хүмүүст элбэг.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="ersdel" class="section-card" style="border-left-color:#ea580c">
-<h2>Эрсдэлтэй хэсэг</h2>
-<p>Ууц, өсгий, тохой, дал, ташаа, чихний ар зэрэг яс товойсон хэсэгт даралт их үүсдэг тул өдөр бүр шалгана.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="sergiilelt" class="section-card" style="border-left-color:#ea580c">
-<h2>Урьдчилан сэргийлэх</h2>
-<p>2 цаг тутам байрлал солих, арьсыг хуурай цэвэр байлгах, зөөлөвч хэрэглэх, үрэлт чирэгдлийг багасгах, хоол унд уургийг анхаарах хэрэгтэй.</p>
-<div class="alert-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="emchid" class="section-card" style="border-left-color:#ea580c">
-<h2>Хэзээ эмчид хандах вэ?</h2>
-<p>Арьс улайгаад арилахгүй байх, цэврүүтэх, шархлах, шүүс гарах, эвгүй үнэр гарах, халуурах шинж илэрвэл эмчид үзүүлнэ.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<div class="footer-note">
+
+<div class="qr-card no-print" style="max-width:230px;float:right;margin:0 0 1rem 1rem;">
+<img src="qr/pressure-injury.png" alt="QR">
+<small>Энэ хуудсыг QR-аар унших</small>
+</div>
+
+
+
+<div class="section-box" id="">
+
+## Товч ойлголт
+
+Холголт, цооролт нь удаан хугацаанд нэг байрлалд хэвтэх, суух үед арьс болон доорх эд дарагдаж цусан хангамж муудсанаас үүсдэг арьсны гэмтэл юм.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Их дарагддаг хэсэг
+
+Дагз, чихний ар, дал, тохой, ууц, өгзөг, ташаа, өвдөг, өсгий зэрэг яс товойсон хэсгүүд илүү эрсдэлтэй.
+
+</div>
+
+
+<div class="section-box good-box" id="">
+
+## Урьдчилан сэргийлэх
+
+Байрлалыг 2 цаг тутам өөрчлөх, арьсыг өдөр бүр шалгах, арьсыг цэвэр хуурай байлгах, зөөлөн дэр, зориулалтын гудас ашиглах, үрэлт чирэлтээс хамгаалах.
+
+</div>
+
+
+<div class="section-box warn-box" id="">
+
+## Анхаарах шинж
+
+Арьс улайх, халуу оргих, өвдөх, цэврүү үүсэх, арьс шалбарах, харлах, эвгүй үнэртэй шингэн гарах үед эмчид үзүүлнэ.
+
+</div>
+
+
+<div class="section-box good-box" id="">
+
+## Асаргааны зөвлөмж
+
+Зөв хооллолт, уураг, шингэн, арьсны чийгшил, ариун цэвэр, хөдөлгөөнийг дэмжих нь эдгэрэлт болон урьдчилан сэргийлэлтэд чухал.
+
+</div>
+
+
+<div class="section-box no-print">
+
+## Хэвлэх хувилбар
+
+<a class="print-link" href="print/pressure-injury-print.html">A4 хэвлэх хувилбар нээх</a>
+
+</div>
+
+
+<div class="site-footer">
+<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
+<div>
 <p><strong>Нинжин манал ӨЭМТ</strong></p>
 <p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
 <p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 </div>
 

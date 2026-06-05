@@ -1,37 +1,81 @@
 ---
-format: html
+title: "Зүрхний шигдээс"
+subtitle: "Нинжин манал ӨЭМТ — иргэдэд зориулсан товч зөвлөмж"
 ---
 
-<div class="page-head"><div class="page-head-inner"><div><h1>Зүрхний шигдээс</h1><p>Цээж базлах, амьсгаадах, хүйтэн хөлс гарах үед яаралтай тусламж дуудна.</p><a class="btn-main" href="qr/heart-attack.png">Энэ сэдвийн QR татах</a> <a class="btn-secondary" href="print/heart-attack-print.html">A4 хэвлэх</a></div><div><img src="assets/illustrations/heart-attack-warning.svg" alt="Зүрхний шигдээс"></div></div></div>
-<div class="subnav"><div class="subnav-title">Энэ хуудсанд</div>
-<a class="btn-secondary" href="#oilgolt">Товч ойлголт</a>
-<a class="btn-secondary" href="#shinj">Аюултай шинж</a>
-<a class="btn-secondary" href="#yu-hiih">Гэртээ юу хийх вэ?</a>
-<a class="btn-secondary" href="#sergiilelt">Урьдчилан сэргийлэлт</a>
+<div class="section-box">
+
+<strong>Товч санаа:</strong> Цээжээр дарах, базлах, амьсгаадах, зүүн гар, эрүү, нуруу руу өвдөлт дамжих үед яаралтай хандана.
+
 </div>
-<section id="oilgolt" class="section-card" style="border-left-color:#e11d48">
-<h2>Товч ойлголт</h2>
-<p>Зүрхний шигдээс нь зүрхний булчинд очих цусны урсгал багассанаас үүсдэг яаралтай эмгэг юм. Шинжийг үл тоомсорлох нь амь насанд эрсдэлтэй.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="shinj" class="section-card" style="border-left-color:#e11d48">
-<h2>Аюултай шинж</h2>
-<p>Цээжээр дарах, базлах, шатах мэт өвдөх, зүүн гар, эрүү, нуруу руу дамжих, амьсгаадах, хүйтэн хөлс гарах, дотор муухайрах шинж илэрч болно.</p>
-<div class="danger-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="yu-hiih" class="section-card" style="border-left-color:#e11d48">
-<h2>Гэртээ юу хийх вэ?</h2>
-<p>Хөдөлгөөнөө зогсоож сууна, тусламж дуудна, ганцаараа үлдэхгүй. Өөрөө машин барьж эмнэлэг явахгүй. Эмчийн өмнө заасан эм байгаа бол зааврын дагуу хэрэглэнэ.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="sergiilelt" class="section-card" style="border-left-color:#e11d48">
-<h2>Урьдчилан сэргийлэлт</h2>
-<p>Даралт, сахар, холестеринээ хянах, тамхи татахгүй байх, өөх тос ихтэй хоол багасгах, тогтмол алхах, эмчийн бичсэн эмийг таслахгүй хэрэглэх нь чухал.</p>
-<div class="alert-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<div class="footer-note">
+
+<div class="qr-card no-print" style="max-width:230px;float:right;margin:0 0 1rem 1rem;">
+<img src="qr/heart-attack.png" alt="QR">
+<small>Энэ хуудсыг QR-аар унших</small>
+</div>
+
+
+
+<div class="section-box" id="">
+
+## Товч ойлголт
+
+Зүрхний шигдээс нь зүрхний булчинг цусаар хангах судас бөглөрөх үед үүсдэг яаралтай өвчин юм. Эмчилгээ оройтох тусам зүрхний булчин гэмтэх эрсдэл нэмэгдэнэ.
+
+</div>
+
+
+<div class="section-box warn-box" id="">
+
+## Анхаарах шинж
+
+Цээжний төв хэсгээр дарах, базлах, шатах мэдрэмж төрөх, амьсгаадах, хүйтэн хөлс гарах, дотор муухайрах, өвдөлт зүүн гар, мөр, эрүү, нуруу руу дамжих.
+
+</div>
+
+
+<div class="section-box warn-box" id="103">
+
+## Хэзээ 103 дуудах вэ?
+
+Цээжний өвдөлт 10 минутаас дээш үргэлжлэх, амьсгал давчдах, ухаан балартах, хүйтэн хөлс гарах, даралт огцом унах зэрэг шинж илэрвэл шууд 103 дуудна.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Гэрийн нөхцөлд хийх зүйл
+
+Өвчтөнийг суулган амрааж, бариу хувцсыг суллана. Эмчийн зааваргүйгээр олон эм давхарлан өгөхгүй. Өмнө нь эмч нитроглицерин зөвлөсөн бол зөв хэрэглэнэ.
+
+</div>
+
+
+<div class="section-box good-box" id="">
+
+## Урьдчилан сэргийлэлт
+
+Даралт, сахар, холестеринээ хянах, тамхинаас гарах, жингээ зохистой барих, давс, өөх тосны хэрэглээг багасгах, тогтмол алхах нь эрсдэлийг бууруулна.
+
+</div>
+
+
+<div class="section-box no-print">
+
+## Хэвлэх хувилбар
+
+<a class="print-link" href="print/heart-attack-print.html">A4 хэвлэх хувилбар нээх</a>
+
+</div>
+
+
+<div class="site-footer">
+<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
+<div>
 <p><strong>Нинжин манал ӨЭМТ</strong></p>
 <p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
 <p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 </div>
 

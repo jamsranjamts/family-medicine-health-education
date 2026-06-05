@@ -1,37 +1,81 @@
 ---
-format: html
+title: "Эпилепси"
+subtitle: "Нинжин манал ӨЭМТ — иргэдэд зориулсан товч зөвлөмж"
 ---
 
-<div class="page-head"><div class="page-head-inner"><div><h1>Эпилепси</h1><p>Таталтын үед хүнийг хамгаалж, хажуу тийш харуулж, аманд зүйл хийхгүй.</p><a class="btn-main" href="qr/epilepsy.png">Энэ сэдвийн QR татах</a> <a class="btn-secondary" href="print/epilepsy-print.html">A4 хэвлэх</a></div><div><img src="assets/illustrations/epilepsy-first-aid.svg" alt="Эпилепси"></div></div></div>
-<div class="subnav"><div class="subnav-title">Энэ хуудсанд</div>
-<a class="btn-secondary" href="#oilgolt">Товч ойлголт</a>
-<a class="btn-secondary" href="#tuslamj">Таталтын үед авах арга хэмжээ</a>
-<a class="btn-secondary" href="#bolohgui">Хийж болохгүй зүйл</a>
-<a class="btn-secondary" href="#yaraltai">Хэзээ 103 дуудах вэ?</a>
+<div class="section-box">
+
+<strong>Товч санаа:</strong> Таталтын үед хүнийг аюулгүй байрлуулж, ам руу нь юм хийхгүй, 5 минутаас дээш үргэлжилбэл 103 дуудна.
+
 </div>
-<section id="oilgolt" class="section-card" style="border-left-color:#7c3aed">
-<h2>Товч ойлголт</h2>
-<p>Эпилепси нь тархины цахилгаан идэвхийн өөрчлөлтөөс давтамжтай таталт үүсэх эмгэг юм. Таталтын үед зөв тусламж үзүүлэх нь гэмтлээс сэргийлнэ.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="tuslamj" class="section-card" style="border-left-color:#7c3aed">
-<h2>Таталтын үед авах арга хэмжээ</h2>
-<p>Хүнийг аюулгүй газар хэвтүүлж, толгойг хамгаална. Боломжтой бол хажуу тийш харуулна. Таталт эхэлсэн цагийг харна.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="bolohgui" class="section-card" style="border-left-color:#7c3aed">
-<h2>Хийж болохгүй зүйл</h2>
-<p>Аманд нь халбага, ус, эм хийхгүй. Хүчээр барьж дарахгүй. Ухаан ороогүй үед идэж уух зүйл өгөхгүй.</p>
-<div class="alert-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="yaraltai" class="section-card" style="border-left-color:#7c3aed">
-<h2>Хэзээ 103 дуудах вэ?</h2>
-<p>Таталт 5 минутаас дээш үргэлжлэх, давтан татах, амьсгал хэвийн болохгүй байх, жирэмсэн, усанд байсан, гэмтсэн тохиолдолд 103 дуудна.</p>
-<div class="danger-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<div class="footer-note">
+
+<div class="qr-card no-print" style="max-width:230px;float:right;margin:0 0 1rem 1rem;">
+<img src="qr/epilepsy.png" alt="QR">
+<small>Энэ хуудсыг QR-аар унших</small>
+</div>
+
+
+
+<div class="section-box" id="">
+
+## Товч ойлголт
+
+Эпилепси нь тархины цахилгаан идэвхжил түр зуур алдагдсанаас давтамжтай таталт илрэх эмгэг юм. Ихэнх хүн эмчийн хяналт, тогтмол эмчилгээгээр хэвийн амьдрах боломжтой.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Таталтын үед авах арга хэмжээ
+
+Орчны аюултай зүйлсийг холдуулж, толгой дор зөөлөн зүйл тавина. Хувцсыг суллаж, таталт дууссаны дараа хажуу тийш харуулна. Таталтын хугацааг тэмдэглэнэ.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Хийж болохгүй зүйл
+
+Ам руу халбага, хуруу, ус, эм хийхгүй. Хүчээр барьж дарахгүй. Таталт үргэлжилж байх үед ус уулгахгүй, хоол өгөхгүй.
+
+</div>
+
+
+<div class="section-box warn-box" id="103">
+
+## Хэзээ 103 дуудах вэ?
+
+Таталт 5 минутаас дээш үргэлжлэх, нэг таталт дуусаад дахин давтагдах, гэмтэл авах, жирэмсэн хүн татах, усанд татах, анх удаа таталт өгөх үед яаралтай тусламж дуудна.
+
+</div>
+
+
+<div class="section-box good-box" id="">
+
+## Өдөр тутмын зөвлөмж
+
+Эмийг тогтмол уух, нойр дутуу явахгүй байх, архи хэтрүүлэхгүй байх, гэр бүл болон ойр дотныхондоо таталтын үед авах арга хэмжээг зааж өгөх нь чухал.
+
+</div>
+
+
+<div class="section-box no-print">
+
+## Хэвлэх хувилбар
+
+<a class="print-link" href="print/epilepsy-print.html">A4 хэвлэх хувилбар нээх</a>
+
+</div>
+
+
+<div class="site-footer">
+<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
+<div>
 <p><strong>Нинжин манал ӨЭМТ</strong></p>
 <p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
 <p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 </div>
 

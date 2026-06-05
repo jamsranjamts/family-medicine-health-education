@@ -1,74 +1,77 @@
 ---
-format: html
+title: "Нинжин манал ӨЭМТ"
+subtitle: "Өрхийн эрүүл мэндийн боловсролын цахим зөвлөмж"
 ---
 
-<div class="hero"><div class="hero-top"><img class="brand-logo" src="assets/logo/logo-transparent.png"><div><h1>Нинжин манал ӨЭМТ</h1><p>Өрхийн эмнэлгээс иргэдэд зориулсан эрүүл мэндийн боловсролын цахим зөвлөмж. QR код уншуулаад хаанаас ч үзэх боломжтой.</p></div></div><div class="hero-badges"><span class="badge-soft">QR-аар уншина</span><span class="badge-soft">A4 хэвлэх боломжтой</span><span class="badge-soft">Иргэдэд ойлгомжтой</span></div></div>
-
-<div class="info-box"><strong>Анхааруулга:</strong> Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</div>
+<div class="nm-hero">
+<div>
+<div class="nm-eyebrow">Олон нийтэд зориулсан эрүүл мэндийн мэдээлэл</div>
+<div class="nm-title-large">Эрүүл мэндийн зөвлөмжийг QR-аар уншаарай</div>
+<p class="nm-lead">Тархины харвалт, зүрхний шигдээс, эпилепси, бөөрний эрүүл мэнд, аутизмын дэмжлэг, харвалтын дараах дасгал, холголт цооролтоос сэргийлэх зөвлөмжийг нэг дороос унших боломжтой.</p>
+<div class="nm-badges"><span class="nm-badge">103 — яаралтай тусламж</span><span class="nm-badge">A4 хэвлэх хувилбар</span><span class="nm-badge">QR кодтой</span></div>
+</div>
+<div class="nm-logo-panel"><img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo"></div>
+</div>
 
 ## Сэдвүүд
 
 <div class="topic-grid">
 <div class="topic-card">
-<img src="assets/illustrations/stroke-fast.svg" alt="Тархины цус харвалт">
+<div class="icon">🧠</div>
 <h3>Тархины цус харвалт</h3>
-<p>FAST аргаар шинжийг таньж, цаг алдалгүй 103 дуудна.</p>
-<a class="btn-main" href="stroke.html">Дэлгэрэнгүй</a>
-<a class="btn-secondary" href="print/stroke-print.html">A4 хэвлэх</a>
+<p>Нүүр мурийх, гар сулрах, хэл яриа өөрчлөгдөх шинжийг таньж, цаг алдалгүй тусламж дуудах.</p>
+<a href="stroke.html">Дэлгэрэнгүй</a>
 </div>
-
 <div class="topic-card">
-<img src="assets/illustrations/heart-attack-warning.svg" alt="Зүрхний шигдээс">
+<div class="icon">❤️</div>
 <h3>Зүрхний шигдээс</h3>
-<p>Цээж базлах, амьсгаадах, хүйтэн хөлс гарах үед яаралтай тусламж дуудна.</p>
-<a class="btn-main" href="heart-attack.html">Дэлгэрэнгүй</a>
-<a class="btn-secondary" href="print/heart-attack-print.html">A4 хэвлэх</a>
+<p>Цээжээр дарах, базлах, амьсгаадах, зүүн гар, эрүү, нуруу руу өвдөлт дамжих үед яаралтай хандана.</p>
+<a href="heart-attack.html">Дэлгэрэнгүй</a>
 </div>
-
 <div class="topic-card">
-<img src="assets/illustrations/epilepsy-first-aid.svg" alt="Эпилепси">
+<div class="icon">🟣</div>
 <h3>Эпилепси</h3>
-<p>Таталтын үед хүнийг хамгаалж, хажуу тийш харуулж, аманд зүйл хийхгүй.</p>
-<a class="btn-main" href="epilepsy.html">Дэлгэрэнгүй</a>
-<a class="btn-secondary" href="print/epilepsy-print.html">A4 хэвлэх</a>
+<p>Таталтын үед хүнийг аюулгүй байрлуулж, ам руу нь юм хийхгүй, 5 минутаас дээш үргэлжилбэл 103 дуудна.</p>
+<a href="epilepsy.html">Дэлгэрэнгүй</a>
 </div>
-
 <div class="topic-card">
-<img src="assets/illustrations/kidney-monitoring.svg" alt="Бөөрний дутагдал">
+<div class="icon">🩺</div>
 <h3>Бөөрний дутагдал</h3>
-<p>Даралт, сахар, шээс, креатининыг тогтмол хянах нь бөөр хамгаална.</p>
-<a class="btn-main" href="kidney-failure.html">Дэлгэрэнгүй</a>
-<a class="btn-secondary" href="print/kidney-failure-print.html">A4 хэвлэх</a>
+<p>Даралт, сахар, шээсний шинжилгээ, бөөрний үйл ажиллагааг тогтмол хянах нь бөөр хамгаална.</p>
+<a href="kidney-failure.html">Дэлгэрэнгүй</a>
 </div>
-
 <div class="topic-card">
-<img src="assets/illustrations/autism-therapy.svg" alt="Аутизм ба засал">
-<h3>Аутизм ба засал</h3>
-<p>Хүүхдийн харилцаа, хэл яриа, хөдөлгөөн, өдөр тутмын чадварыг эрт дэмжинэ.</p>
-<a class="btn-main" href="autism.html">Дэлгэрэнгүй</a>
-<a class="btn-secondary" href="print/autism-print.html">A4 хэвлэх</a>
+<div class="icon">🧩</div>
+<h3>Аутизм ба дэмжих засал</h3>
+<p>Хэл яриа, харилцаа, хөдөлгөөн, өдөр тутмын чадварыг эрт үеэс дэмжих нь хүүхдийн хөгжилд чухал.</p>
+<a href="autism.html">Дэлгэрэнгүй</a>
 </div>
-
 <div class="topic-card">
-<img src="assets/illustrations/post-stroke-exercises.svg" alt="Саажилтын үеийн дасгал">
-<h3>Саажилтын үеийн дасгал</h3>
-<p>Харвалтын дараах дасгалыг аюулгүй, бага багаар, тогтмол хийдэг.</p>
-<a class="btn-main" href="post-stroke-exercises.html">Дэлгэрэнгүй</a>
-<a class="btn-secondary" href="print/post-stroke-exercises-print.html">A4 хэвлэх</a>
+<div class="icon">🚶</div>
+<h3>Харвалтын дараах дасгал</h3>
+<p>Саажилтын үед дасгалыг аюулгүй, бага багаар, тогтмол хийж, уналтаас сэргийлнэ.</p>
+<a href="post-stroke-exercises.html">Дэлгэрэнгүй</a>
 </div>
-
 <div class="topic-card">
-<img src="assets/illustrations/pressure-injury-care.svg" alt="Холголт, цооролт">
+<div class="icon">🛏️</div>
 <h3>Холголт, цооролт</h3>
-<p>Байрлал солих, арьсаа шалгах, хуурай цэвэр байлгах нь хамгийн чухал.</p>
-<a class="btn-main" href="pressure-injury.html">Дэлгэрэнгүй</a>
-<a class="btn-secondary" href="print/pressure-injury-print.html">A4 хэвлэх</a>
+<p>Удаан хэвтрийн үед арьс дарагдахаас сэргийлж байрлал солих, арьсыг шалгах, хуурай цэвэр байлгах.</p>
+<a href="pressure-injury.html">Дэлгэрэнгүй</a>
+</div>
 </div>
 
-</div>
-<div class="footer-note">
+## Хэвлэх болон QR ашиглах
+
+<div class="section-box">Сэдэв бүрийн үндсэн хуудас болон A4 хэвлэх хувилбар тус бүрт QR код үүсгэсэн. QR татах хэсгээс зураг хэлбэрээр авч хэвлэх боломжтой.</div>
+
+
+
+<div class="site-footer">
+<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
+<div>
 <p><strong>Нинжин манал ӨЭМТ</strong></p>
 <p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
 <p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 </div>
 

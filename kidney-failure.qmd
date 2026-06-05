@@ -1,37 +1,81 @@
 ---
-format: html
+title: "Бөөрний дутагдал"
+subtitle: "Нинжин манал ӨЭМТ — иргэдэд зориулсан товч зөвлөмж"
 ---
 
-<div class="page-head"><div class="page-head-inner"><div><h1>Бөөрний дутагдал</h1><p>Даралт, сахар, шээс, креатининыг тогтмол хянах нь бөөр хамгаална.</p><a class="btn-main" href="qr/kidney-failure.png">Энэ сэдвийн QR татах</a> <a class="btn-secondary" href="print/kidney-failure-print.html">A4 хэвлэх</a></div><div><img src="assets/illustrations/kidney-monitoring.svg" alt="Бөөрний дутагдал"></div></div></div>
-<div class="subnav"><div class="subnav-title">Энэ хуудсанд</div>
-<a class="btn-secondary" href="#oilgolt">Товч ойлголт</a>
-<a class="btn-secondary" href="#ersdel">Эрсдэлт хүчин зүйл</a>
-<a class="btn-secondary" href="#shinjilgee">Хяналтын шинжилгээ</a>
-<a class="btn-secondary" href="#sergiilelt">Урьдчилан сэргийлэлт</a>
+<div class="section-box">
+
+<strong>Товч санаа:</strong> Даралт, сахар, шээсний шинжилгээ, бөөрний үйл ажиллагааг тогтмол хянах нь бөөр хамгаална.
+
 </div>
-<section id="oilgolt" class="section-card" style="border-left-color:#0891b2">
-<h2>Товч ойлголт</h2>
-<p>Бөөрний дутагдал нь бөөр биеийн илүүдэл шингэн, хорт бодисыг шүүх чадвараа алдах үед үүсдэг. Эрт үед шинж бага байж болох тул хяналтын шинжилгээ чухал.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="ersdel" class="section-card" style="border-left-color:#0891b2">
-<h2>Эрсдэлт хүчин зүйл</h2>
-<p>Даралт ихсэлт, чихрийн шижин, бөөрний үрэвсэл, өвчин намдаах эмийг удаан хэрэглэх, удамшил, насжилт зэрэг нь эрсдэл нэмэгдүүлнэ.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="shinjilgee" class="section-card" style="border-left-color:#0891b2">
-<h2>Хяналтын шинжилгээ</h2>
-<p>Шээсний уураг, креатинин, eGFR, цусны даралт, сахарын хяналт, хаван байгаа эсэхийг эмчийн зөвлөгөөгөөр шалгана.</p>
-<div class="info-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<section id="sergiilelt" class="section-card" style="border-left-color:#0891b2">
-<h2>Урьдчилан сэргийлэлт</h2>
-<p>Давс багасгах, даралт сахараа барих, ус шингэнээ зохистой хэрэглэх, эмийг дур мэдэн хэрэглэхгүй байх, эмчийн хяналтад тогтмол үзүүлэх нь чухал.</p>
-<div class="alert-box"><strong>Санамж:</strong> Энэ хэсгийн QR кодыг QR татах хуудсаас авч хэвлэх боломжтой.</div>
-</section>
-<div class="footer-note">
+
+<div class="qr-card no-print" style="max-width:230px;float:right;margin:0 0 1rem 1rem;">
+<img src="qr/kidney-failure.png" alt="QR">
+<small>Энэ хуудсыг QR-аар унших</small>
+</div>
+
+
+
+<div class="section-box" id="">
+
+## Товч ойлголт
+
+Бөөр нь шингэн, давс, бодисын солилцооны хаягдлыг шүүх үүрэгтэй. Бөөрний үйл ажиллагаа удаан хугацаанд буурах үед биеийн хорт бодис гадагшлах нь мууддаг.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Эрсдэлт хүчин зүйл
+
+Цусны даралт ихсэх, чихрийн шижин, бөөрний үрэвсэл, өвчин намдаах эмийг дур мэдэн олон хэрэглэх, удамшил, давс ихтэй хооллолт нь эрсдэлийг нэмэгдүүлнэ.
+
+</div>
+
+
+<div class="section-box warn-box" id="">
+
+## Анхаарах шинж
+
+Хавагнах, шээсний хэмжээ өөрчлөгдөх, шээс хөөсрөх, ядрах, даралт ихсэх, хоолонд дургүй болох шинж илэрч болно. Зарим үед эхний шатанд шинж багатай байдаг.
+
+</div>
+
+
+<div class="section-box" id="">
+
+## Хяналтын шинжилгээ
+
+Цусны креатинин, eGFR, шээсний ерөнхий шинжилгээ, альбумин/креатинины харьцаа, даралт, цусан дахь сахарыг эмчийн зөвлөсөн давтамжаар шалгана.
+
+</div>
+
+
+<div class="section-box good-box" id="">
+
+## Урьдчилан сэргийлэлт
+
+Давс, өөх тосны хэрэглээг багасгах, даралт ба сахараа тогтмол хянах, хангалттай шингэн уух, эмийг дур мэдэн хэрэглэхгүй байх, эмчид тогтмол үзүүлэх.
+
+</div>
+
+
+<div class="section-box no-print">
+
+## Хэвлэх хувилбар
+
+<a class="print-link" href="print/kidney-failure-print.html">A4 хэвлэх хувилбар нээх</a>
+
+</div>
+
+
+<div class="site-footer">
+<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
+<div>
 <p><strong>Нинжин манал ӨЭМТ</strong></p>
 <p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
 <p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+</div>
 </div>
 
