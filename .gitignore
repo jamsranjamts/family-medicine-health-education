@@ -1,7 +1,10 @@
-﻿.Rproj.user/
+.Rproj.user/
 .quarto/
 .Rhistory
 .RData
 .Ruserdata
 .DS_Store
 Thumbs.db
+
+/.quarto/
+**/*.quarto_ipynb
