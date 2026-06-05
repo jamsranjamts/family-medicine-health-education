@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Өрхийн эмнэлгийн эрүүл мэндийн зөвлөмж"
+  search: true
+  back-to-top-navigation: true
+  navbar:
+    background: primary
+    left:
+      - href: index.qmd
+        text: "Нүүр"
+      - href: stroke.qmd
+        text: "Тархины харвалт"
+      - href: heart-attack.qmd
+        text: "Зүрхний шигдээс"
+      - href: epilepsy.qmd
+        text: "Эпилепси"
+      - href: kidney-failure.qmd
+        text: "Бөөр"
+      - href: autism.qmd
+        text: "Аутизм"
+      - text: "Асаргаа, сэргээн засах"
+        menu:
+          - href: post-stroke-exercises.qmd
+            text: "Харвалтын дараах дасгал"
+          - href: pressure-injury.qmd
+            text: "Холголт, цооролт"
+      - href: downloads.qmd
+        text: "QR / Татах"
+      - href: references.qmd
+        text: "Эх сурвалж"
+  page-footer:
+    left: "© Өрхийн эмнэлгийн эрүүл мэндийн боловсрол"
+    right: "Эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай үед 103 дуудна уу."
+
+format:
+  html:
+    lang: mn
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "Агуулга"
+    number-sections: false
+    smooth-scroll: true
+    code-fold: true
+    page-layout: full
+execute:
+  freeze: auto

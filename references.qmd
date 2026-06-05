@@ -1,0 +1,24 @@
+---
+title: "Эх сурвалж ба санамж"
+subtitle: "Олон нийтийн боловсролын материал бэлтгэхэд ашигласан эх сурвалж"
+---
+
+## Ашигласан эх сурвалж
+
+- American Stroke Association. Stroke symptoms and warning signs: https://www.stroke.org/en/about-stroke/stroke-symptoms
+- World Health Organization. Stroke fact sheet: https://www.who.int/news-room/fact-sheets/detail/stroke
+- American Heart Association. Warning signs of a heart attack: https://www.heart.org/en/health-topics/heart-attack/warning-signs-of-a-heart-attack
+- Centers for Disease Control and Prevention. First aid for seizures: https://www.cdc.gov/epilepsy/first-aid-for-seizures/index.html
+- National Kidney Foundation. Chronic kidney disease: https://www.kidney.org/kidney-topics/chronic-kidney-disease-ckd
+- Centers for Disease Control and Prevention. Autism spectrum disorder signs and symptoms: https://www.cdc.gov/autism/signs-symptoms/index.html
+- Centers for Disease Control and Prevention. Treatment and intervention for autism spectrum disorder: https://www.cdc.gov/autism/treatment/index.html
+- American Stroke Association. Post-stroke exercise videos: https://www.stroke.org/en/life-after-stroke/stroke-rehab/post-stroke-exercise-videos
+- International Guideline. Prevention and treatment of pressure ulcers/injuries: https://www.internationalguideline.com/the-international-guideline
+
+## Ерөнхий санамж
+
+Энэхүү цахим материал нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан. Эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.
+
+## Дотоод хяналт хийх санал
+
+Сайтыг нийтлэхээс өмнө өрхийн эмч, сувилагч, сэргээн засахын эмч/хөдөлгөөн засалч, хүүхдийн хөгжлийн мэргэжилтнээр сэдэв тус бүрийг хянуулахыг зөвлөж байна.
