@@ -1,0 +1,27 @@
+---
+title: "Бүх QR — хэвлэх хувилбар"
+toc: false
+---
+
+::: {.print-sheet}
+
+::: {.print-header}
+![](../assets/logo/logo-transparent.png){.print-logo}
+
+<div>
+<h1>QR кодууд</h1>
+<p>Нинжин манал ӨЭМТ — олон нийтийн эрүүл мэндийн боловсрол</p>
+</div>
+:::
+
+<div class="print-qr-grid">
+<div class='print-qr-item'><img src='../qr/home.png'><p>Нүүр хуудас</p></div><div class='print-qr-item'><img src='../qr/stroke.png'><p>Тархины харвалт</p></div><div class='print-qr-item'><img src='../qr/heart-attack.png'><p>Зүрхний шигдээс</p></div><div class='print-qr-item'><img src='../qr/epilepsy.png'><p>Эпилепси</p></div><div class='print-qr-item'><img src='../qr/kidney-failure.png'><p>Бөөрний дутагдал</p></div><div class='print-qr-item'><img src='../qr/autism.png'><p>Аутизм</p></div><div class='print-qr-item'><img src='../qr/post-stroke-exercises.png'><p>Саажилтын дасгал</p></div><div class='print-qr-item'><img src='../qr/pressure-injury.png'><p>Холголт, цооролт</p></div><div class='print-qr-item'><img src='../qr/downloads.png'><p>QR татах</p></div><div class='print-qr-item'><img src='../qr/references.png'><p>Эх сурвалж</p></div><div class='print-qr-item'><img src='../qr/stroke-be-fast.png'><p>B.E.F.A.S.T</p></div><div class='print-qr-item'><img src='../qr/stroke-warning.png'><p>Анхаарах шинж</p></div><div class='print-qr-item'><img src='../qr/stroke-action.png'><p>Яаралтай авах арга хэмжээ</p></div><div class='print-qr-item'><img src='../qr/stroke-prevention.png'><p>Урьдчилан сэргийлэлт</p></div><div class='print-qr-item'><img src='../qr/heart-symptoms.png'><p>Анхаарах шинж</p></div><div class='print-qr-item'><img src='../qr/heart-call.png'><p>103 дуудах</p></div><div class='print-qr-item'><img src='../qr/heart-prevention.png'><p>Урьдчилан сэргийлэлт</p></div><div class='print-qr-item'><img src='../qr/epilepsy-firstaid.png'><p>Таталтын үед</p></div><div class='print-qr-item'><img src='../qr/epilepsy-dont.png'><p>Хийж болохгүй</p></div><div class='print-qr-item'><img src='../qr/epilepsy-call.png'><p>103 дуудах</p></div><div class='print-qr-item'><img src='../qr/kidney-risk.png'><p>Эрсдэлт хүчин зүйл</p></div><div class='print-qr-item'><img src='../qr/kidney-tests.png'><p>Хяналтын шинжилгээ</p></div><div class='print-qr-item'><img src='../qr/kidney-prevention.png'><p>Урьдчилан сэргийлэлт</p></div><div class='print-qr-item'><img src='../qr/autism-signs.png'><p>Анзаарах шинж</p></div><div class='print-qr-item'><img src='../qr/autism-speech.png'><p>Хэл засал</p></div><div class='print-qr-item'><img src='../qr/autism-movement.png'><p>Хөдөлгөөн засал</p></div><div class='print-qr-item'><img src='../qr/autism-occupation.png'><p>Хөдөлмөр засал</p></div><div class='print-qr-item'><img src='../qr/exercise-safety.png'><p>Аюулгүй байдал</p></div>
+</div>
+
+::: {.print-footer}
+![](../assets/logo/logo-small.png){.print-footer-logo}
+**Нинжин манал ӨЭМТ** · © АШУҮИС, оюутан Ш.Жамсранжамц
+:::
+
+:::
+

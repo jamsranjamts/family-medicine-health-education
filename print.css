@@ -1,0 +1,24 @@
+
+.print-sheet { max-width: 210mm; min-height: 297mm; margin: 0 auto 2rem; background: white; padding: 12mm; border: 1px solid #d8e4f0; box-shadow: 0 8px 26px rgba(0,0,0,.08); }
+.print-header { display: grid; grid-template-columns: 42mm 1fr 34mm; gap: 10mm; align-items: center; border-bottom: 4px solid #005b9e; padding-bottom: 6mm; }
+.print-logo { max-width: 42mm; }
+.print-header h1 { color: #005b9e; margin: 0; font-size: 27pt; }
+.print-header p { margin: 3mm 0 0; color: #26465f; font-size: 11pt; }
+.print-qr { width: 32mm; }
+.print-illustration { width: 100%; margin: 8mm 0; border-radius: 8px; }
+.print-main { font-size: 12pt; line-height: 1.45; }
+.print-main h2 { color: #005b9e; margin-top: 5mm; }
+.print-footer { margin-top: 8mm; padding-top: 4mm; border-top: 1px solid #cbdceb; color: #003b70; font-size: 10pt; display: flex; align-items: center; gap: 8px; }
+.print-footer-logo { width: 12mm; }
+.print-qr-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 5mm; margin-top: 8mm; }
+.print-qr-item { border: 1px solid #d8e4f0; border-radius: 8px; padding: 3mm; text-align: center; page-break-inside: avoid; }
+.print-qr-item img { width: 33mm; }
+.print-qr-item p { margin: 2mm 0 0; font-size: 8pt; font-weight: 700; color: #003b70; }
+@media print {
+  @page { size: A4; margin: 10mm; }
+  body { background: white !important; }
+  .navbar, .sidebar, nav, .toc, .quarto-title-block, .page-footer { display: none !important; }
+  .print-sheet { box-shadow: none; border: none; padding: 0; margin: 0; min-height: auto; max-width: none; }
+  a[href]:after { content: ""; }
+}
+

@@ -1,38 +1,75 @@
 ---
-title: "Өрхийн эмнэлгийн эрүүл мэндийн зөвлөмж"
-subtitle: "Олон нийтийн эрүүл мэндийн боловсролд зориулсан цахим материал"
+title: "Нинжин манал ӨЭМТ"
 ---
 
-<div class="hero">
-<span class="badge-soft">QR-аар хаанаас ч уншина</span>
-<h1>Иргэдэд ойлгомжтой, утсаар уншихад хялбар эрүүл мэндийн зөвлөмж</h1>
-<p>Энэхүү цахим сан нь өрхийн эмнэлгийн зүгээс олон нийтэд хүргэх богино, ойлгомжтой, зурагтай зөвлөмжийн загвар юм. Хэвлэсэн QR кодыг уншуулахад тухайн сэдэв рүү шууд орно.</p>
-</div>
+::: {.brand-strip}
+![](assets/logo/logo-transparent.png){.brand-logo}
+:::
 
-<div class="danger-box">
-<strong>Яаралтай санамж:</strong> Гэнэт нэг тал сулрах, хэл яриа ээрэх, цээж хүчтэй өвдөх, амьсгал давчдах, таталт 5 минутаас дээш үргэлжлэх, ухаан алдах зэрэг шинж илэрвэл <strong>103</strong> дуудна уу.
-</div>
+::: {.hero-card}
 
-## Сэдвүүд
+# Нинжин манал ӨЭМТ
 
-<div class="card-grid">
-<a class="topic-card" href="stroke.html"><span class="emoji">🧠</span><strong>Тархины цус харвалт</strong><span>BE-FAST шинж, яаралтай тусламж, урьдчилан сэргийлэлт</span></a>
-<a class="topic-card" href="heart-attack.html"><span class="emoji">❤️</span><strong>Зүрхний шигдээс</strong><span>Цээжний өвдөлт, аюултай шинж, 103 дуудах үе</span></a>
-<a class="topic-card" href="epilepsy.html"><span class="emoji">⚡</span><strong>Эпилепси</strong><span>Таталтын үед зөв тусламж үзүүлэх арга</span></a>
-<a class="topic-card" href="kidney-failure.html"><span class="emoji">💧</span><strong>Бөөрний дутагдал</strong><span>Эрсдэлт хүчин зүйл, шинжилгээ, хяналт</span></a>
-<a class="topic-card" href="autism.html"><span class="emoji">🧩</span><strong>Аутизм</strong><span>Эрт анзаарах шинж, хэл засал, хөдөлгөөн ба хөдөлмөр засал</span></a>
-<a class="topic-card" href="post-stroke-exercises.html"><span class="emoji">🦵</span><strong>Харвалтын дараах дасгал</strong><span>Саажилтын үеийн гэрийн дасгал хөдөлгөөний зөвлөмж</span></a>
-<a class="topic-card" href="pressure-injury.html"><span class="emoji">🛏️</span><strong>Холголт, цооролт</strong><span>Хэвтрийн иргэдийн арьс хамгаалах зөвлөмж</span></a>
-<a class="topic-card" href="downloads.html"><span class="emoji">📱</span><strong>QR / Татаж авах</strong><span>QR код, хэвлэх загвар, ашиглах заавар</span></a>
-</div>
+Өрхийн эрүүл мэндийн төвөөс олон нийтэд зориулсан эрүүл мэндийн боловсролын QR сайт.
 
-## Ашиглах арга
+![](assets/images/qr-codes.png){.hero-image}
 
-1. Сайтыг Quarto ашиглан render хийнэ.
-2. GitHub Pages, Netlify эсвэл Posit Connect Cloud дээр үнэгүй байршуулна.
-3. Гарсан URL-аа QR код болгоно.
-4. QR кодыг өрхийн эмнэлгийн хүлээлгийн танхим, үзлэгийн өрөө, сувилахуйн буланд байршуулна.
+:::
 
-<div class="note-box">
-<strong>Тайлбар:</strong> Энэ материал нь иргэдэд эрүүл мэндийн боловсрол олгох зорилготой. Эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй.
-</div>
+
+::: {.home-grid}
+[![](assets/images/stroke-fast.png)
+
+**Тархины цус харвалт**
+
+Дэлгэрэнгүй](stroke.qmd){.home-card}
+
+[![](assets/images/heart-warning.png)
+
+**Зүрхний шигдээс**
+
+Дэлгэрэнгүй](heart-attack.qmd){.home-card}
+
+[![](assets/images/epilepsy-first-aid.png)
+
+**Эпилепси**
+
+Дэлгэрэнгүй](epilepsy.qmd){.home-card}
+
+[![](assets/images/kidney-care.png)
+
+**Бөөрний дутагдал**
+
+Дэлгэрэнгүй](kidney-failure.qmd){.home-card}
+
+[![](assets/images/autism-therapy.png)
+
+**Аутизм**
+
+Дэлгэрэнгүй](autism.qmd){.home-card}
+
+[![](assets/images/post-stroke-exercise.png)
+
+**Саажилтын дасгал**
+
+Дэлгэрэнгүй](post-stroke-exercises.qmd){.home-card}
+
+[![](assets/images/pressure-injury-care.png)
+
+**Холголт, цооролт**
+
+Дэлгэрэнгүй](pressure-injury.qmd){.home-card}
+
+[![](assets/images/qr-codes.png)
+
+**QR кодууд**
+
+Татах](downloads.qmd){.home-card}
+:::
+
+
+::: {.footer-note}
+**© АШУҮИС, оюутан Ш.Жамсранжамц**  
+Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 дуудна уу.
+:::
+

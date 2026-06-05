@@ -3,10 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "Өрхийн эмнэлгийн эрүүл мэндийн зөвлөмж"
+  title: "Нинжин манал ӨЭМТ"
+  site-url: "https://jamsranjamts.github.io/family-medicine-health-education/"
+  favicon: assets/logo/logo-small.png
   search: true
   back-to-top-navigation: true
+  page-footer:
+    left: "© АШУҮИС, оюутан Ш.Жамсранжамц"
+    center: "Нинжин манал ӨЭМТ"
+    right: "Яаралтай тусламж: 103"
   navbar:
+    logo: assets/logo/logo-transparent.png
     background: primary
     left:
       - href: index.qmd
@@ -21,30 +28,27 @@ website:
         text: "Бөөр"
       - href: autism.qmd
         text: "Аутизм"
-      - text: "Асаргаа, сэргээн засах"
-        menu:
-          - href: post-stroke-exercises.qmd
-            text: "Харвалтын дараах дасгал"
-          - href: pressure-injury.qmd
-            text: "Холголт, цооролт"
+      - href: post-stroke-exercises.qmd
+        text: "Дасгал"
+      - href: pressure-injury.qmd
+        text: "Холголт"
       - href: downloads.qmd
-        text: "QR / Татах"
+        text: "QR татах"
       - href: references.qmd
         text: "Эх сурвалж"
-  page-footer:
-    left: "© Өрхийн эмнэлгийн эрүүл мэндийн боловсрол"
-    right: "Эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай үед 103 дуудна уу."
+
+resources:
+  - assets/**
+  - qr/**
+  - print/**
 
 format:
   html:
-    lang: mn
     theme: cosmo
-    css: styles.css
+    css: [styles.css, print.css]
     toc: true
-    toc-title: "Агуулга"
-    number-sections: false
+    toc-depth: 3
     smooth-scroll: true
-    code-fold: true
     page-layout: full
-execute:
-  freeze: auto
+    code-tools: false
+

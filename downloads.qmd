@@ -1,37 +1,309 @@
 ---
-title: "QR код ба татаж авах материал"
-subtitle: "Сайтыг байршуулсны дараа QR код үүсгэх заавар"
+title: "QR татах"
+toc: false
 ---
 
-## QR код хэрхэн ажиллах вэ?
+::: {.brand-strip}
+![](assets/logo/logo-transparent.png){.brand-logo}
+:::
 
-Энэ Quarto site-ийг GitHub Pages, Netlify эсвэл Posit Connect Cloud дээр байршуулсны дараа URL гарна. Жишээ нь:
+# QR кодууд
 
-```text
-https://your-name.github.io/family-medicine-health-site/
-```
+::: {.qr-grid}
+::: {.qr-card}
+![](qr/home.png){.qr-img}
 
-Тэр URL-ыг `one_click_build_and_qr.R` script доторх `site_url` хэсэгт бичээд ажиллуулахад QR зурагнууд үүснэ.
+**Нүүр хуудас**
 
-## Санал болгох QR байршуулалт
+[`home.png`](qr/home.png)
+:::
 
-| QR | Байршуулах газар | Хөтлөх хуудас |
-|---|---|---|
-| Ерөнхий QR | Хүлээлгийн танхим | Нүүр хуудас |
-| Харвалтын QR | Даралт хэмжих хэсэг | Тархины харвалт |
-| Зүрхний QR | Зүрх судасны үзлэгийн хэсэг | Зүрхний шигдээс |
-| Эпилепсийн QR | Сувилагчийн булан | Эпилепси |
-| Холголтын QR | Гэрийн асаргаа, сувилахуйн булан | Холголт, цооролт |
-| Дасгалын QR | Сэргээн засах зөвлөгөөний хэсэг | Харвалтын дараах дасгал |
+::: {.qr-card}
+![](qr/stroke.png){.qr-img}
 
-## Нэг дор ажиллуулах script
+**Тархины харвалт**
 
-`one_click_build_and_qr.R` script нь:
+[`stroke.png`](qr/stroke.png)
+:::
 
-- Quarto site-ийг render хийнэ.
-- URL тохируулсан бол QR код үүсгэнэ.
-- QR poster хийхэд ашиглах `qr_links.csv` гаргана.
+::: {.qr-card}
+![](qr/heart-attack.png){.qr-img}
 
-<div class="note-box">
-<strong>Санамж:</strong> QR код гаргахын тулд сайт интернет дээр байрласан бодит URL-тай байх шаардлагатай.
-</div>
+**Зүрхний шигдээс**
+
+[`heart-attack.png`](qr/heart-attack.png)
+:::
+
+::: {.qr-card}
+![](qr/epilepsy.png){.qr-img}
+
+**Эпилепси**
+
+[`epilepsy.png`](qr/epilepsy.png)
+:::
+
+::: {.qr-card}
+![](qr/kidney-failure.png){.qr-img}
+
+**Бөөрний дутагдал**
+
+[`kidney-failure.png`](qr/kidney-failure.png)
+:::
+
+::: {.qr-card}
+![](qr/autism.png){.qr-img}
+
+**Аутизм**
+
+[`autism.png`](qr/autism.png)
+:::
+
+::: {.qr-card}
+![](qr/post-stroke-exercises.png){.qr-img}
+
+**Саажилтын дасгал**
+
+[`post-stroke-exercises.png`](qr/post-stroke-exercises.png)
+:::
+
+::: {.qr-card}
+![](qr/pressure-injury.png){.qr-img}
+
+**Холголт, цооролт**
+
+[`pressure-injury.png`](qr/pressure-injury.png)
+:::
+
+::: {.qr-card}
+![](qr/downloads.png){.qr-img}
+
+**QR татах**
+
+[`downloads.png`](qr/downloads.png)
+:::
+
+::: {.qr-card}
+![](qr/references.png){.qr-img}
+
+**Эх сурвалж**
+
+[`references.png`](qr/references.png)
+:::
+
+::: {.qr-card}
+![](qr/stroke-be-fast.png){.qr-img}
+
+**B.E.F.A.S.T**
+
+[`stroke-be-fast.png`](qr/stroke-be-fast.png)
+:::
+
+::: {.qr-card}
+![](qr/stroke-warning.png){.qr-img}
+
+**Анхаарах шинж**
+
+[`stroke-warning.png`](qr/stroke-warning.png)
+:::
+
+::: {.qr-card}
+![](qr/stroke-action.png){.qr-img}
+
+**Яаралтай авах арга хэмжээ**
+
+[`stroke-action.png`](qr/stroke-action.png)
+:::
+
+::: {.qr-card}
+![](qr/stroke-prevention.png){.qr-img}
+
+**Урьдчилан сэргийлэлт**
+
+[`stroke-prevention.png`](qr/stroke-prevention.png)
+:::
+
+::: {.qr-card}
+![](qr/heart-symptoms.png){.qr-img}
+
+**Анхаарах шинж**
+
+[`heart-symptoms.png`](qr/heart-symptoms.png)
+:::
+
+::: {.qr-card}
+![](qr/heart-call.png){.qr-img}
+
+**103 дуудах**
+
+[`heart-call.png`](qr/heart-call.png)
+:::
+
+::: {.qr-card}
+![](qr/heart-prevention.png){.qr-img}
+
+**Урьдчилан сэргийлэлт**
+
+[`heart-prevention.png`](qr/heart-prevention.png)
+:::
+
+::: {.qr-card}
+![](qr/epilepsy-firstaid.png){.qr-img}
+
+**Таталтын үед**
+
+[`epilepsy-firstaid.png`](qr/epilepsy-firstaid.png)
+:::
+
+::: {.qr-card}
+![](qr/epilepsy-dont.png){.qr-img}
+
+**Хийж болохгүй**
+
+[`epilepsy-dont.png`](qr/epilepsy-dont.png)
+:::
+
+::: {.qr-card}
+![](qr/epilepsy-call.png){.qr-img}
+
+**103 дуудах**
+
+[`epilepsy-call.png`](qr/epilepsy-call.png)
+:::
+
+::: {.qr-card}
+![](qr/kidney-risk.png){.qr-img}
+
+**Эрсдэлт хүчин зүйл**
+
+[`kidney-risk.png`](qr/kidney-risk.png)
+:::
+
+::: {.qr-card}
+![](qr/kidney-tests.png){.qr-img}
+
+**Хяналтын шинжилгээ**
+
+[`kidney-tests.png`](qr/kidney-tests.png)
+:::
+
+::: {.qr-card}
+![](qr/kidney-prevention.png){.qr-img}
+
+**Урьдчилан сэргийлэлт**
+
+[`kidney-prevention.png`](qr/kidney-prevention.png)
+:::
+
+::: {.qr-card}
+![](qr/autism-signs.png){.qr-img}
+
+**Анзаарах шинж**
+
+[`autism-signs.png`](qr/autism-signs.png)
+:::
+
+::: {.qr-card}
+![](qr/autism-speech.png){.qr-img}
+
+**Хэл засал**
+
+[`autism-speech.png`](qr/autism-speech.png)
+:::
+
+::: {.qr-card}
+![](qr/autism-movement.png){.qr-img}
+
+**Хөдөлгөөн засал**
+
+[`autism-movement.png`](qr/autism-movement.png)
+:::
+
+::: {.qr-card}
+![](qr/autism-occupation.png){.qr-img}
+
+**Хөдөлмөр засал**
+
+[`autism-occupation.png`](qr/autism-occupation.png)
+:::
+
+::: {.qr-card}
+![](qr/exercise-safety.png){.qr-img}
+
+**Аюулгүй байдал**
+
+[`exercise-safety.png`](qr/exercise-safety.png)
+:::
+
+::: {.qr-card}
+![](qr/exercise-arm.png){.qr-img}
+
+**Гарын дасгал**
+
+[`exercise-arm.png`](qr/exercise-arm.png)
+:::
+
+::: {.qr-card}
+![](qr/exercise-trunk.png){.qr-img}
+
+**Их бие**
+
+[`exercise-trunk.png`](qr/exercise-trunk.png)
+:::
+
+::: {.qr-card}
+![](qr/exercise-leg.png){.qr-img}
+
+**Хөлийн дасгал**
+
+[`exercise-leg.png`](qr/exercise-leg.png)
+:::
+
+::: {.qr-card}
+![](qr/pressure-what.png){.qr-img}
+
+**Ойлголт**
+
+[`pressure-what.png`](qr/pressure-what.png)
+:::
+
+::: {.qr-card}
+![](qr/pressure-prevention.png){.qr-img}
+
+**Урьдчилан сэргийлэлт**
+
+[`pressure-prevention.png`](qr/pressure-prevention.png)
+:::
+
+::: {.qr-card}
+![](qr/pressure-warning.png){.qr-img}
+
+**Анхаарах шинж**
+
+[`pressure-warning.png`](qr/pressure-warning.png)
+:::
+
+::: {.qr-card}
+![](qr/pressure-position.png){.qr-img}
+
+**Байрлал солих**
+
+[`pressure-position.png`](qr/pressure-position.png)
+:::
+:::
+
+# Хэвлэх A4 хувилбарууд
+
+- [Тархины харвалт хэвлэх хувилбар](print/stroke-print.html)
+- [Зүрхний шигдээс хэвлэх хувилбар](print/heart-attack-print.html)
+- [Эпилепси хэвлэх хувилбар](print/epilepsy-print.html)
+- [Бөөрний дутагдал хэвлэх хувилбар](print/kidney-failure-print.html)
+- [Аутизм хэвлэх хувилбар](print/autism-print.html)
+- [Саажилтын дасгал хэвлэх хувилбар](print/post-stroke-exercises-print.html)
+- [Холголт, цооролт хэвлэх хувилбар](print/pressure-injury-print.html)
+- [Бүх QR хэвлэх хувилбар](print/all-qr-print.html)
+
+::: {.footer-note}
+**© АШУҮИС, оюутан Ш.Жамсранжамц**  
+Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 дуудна уу.
+:::
+
