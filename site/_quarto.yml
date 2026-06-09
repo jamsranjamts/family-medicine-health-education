@@ -1,0 +1,52 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Нинжин манал ӨЭМТ"
+  site-url: "https://jamsranjamts.github.io/family-medicine-health-education/"
+  navbar:
+    title: "Нинжин манал ӨЭМТ"
+    logo: assets/logo/ninjin_manal_logo_transparent.png
+    left:
+      - text: "Нүүр"
+        href: index.qmd
+      - text: "Эрүүл мэндийн зөвлөмж"
+        menu:
+          - text: "Тархины цус харвалт"
+            href: stroke.qmd
+          - text: "Зүрхний шигдээс"
+            href: heart-attack.qmd
+          - text: "Эпилепси"
+            href: epilepsy.qmd
+          - text: "Бөөрний дутагдал"
+            href: kidney-failure.qmd
+          - text: "Аутизм"
+            href: autism.qmd
+          - text: "Харвалтын дараах дасгал"
+            href: post-stroke-exercises.qmd
+          - text: "Холголт, цооролт"
+            href: pressure-injury.qmd
+      - text: "Байгууллага"
+        menu:
+          - text: "Танилцуулга"
+            href: organization.qmd
+          - text: "Байрны хуваарилалт"
+            href: bairnii-huvaary.qmd
+          - text: "Facebook"
+            href: "https://www.facebook.com/profile.php?id=61575824979556"
+      - text: "QR / Хэвлэх"
+        href: downloads.qmd
+      - text: "Эх сурвалж"
+        href: references.qmd
+  page-footer:
+    center: "© АШУҮИС, оюутан Ш.Жамсранжамц"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    page-layout: full
