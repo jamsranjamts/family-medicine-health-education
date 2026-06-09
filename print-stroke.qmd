@@ -1,0 +1,9 @@
+---
+title: "Тархины цус харвалт — A4 poster"
+page-layout: full
+---
+
+<div class="poster-print-page">
+  <p class="print-note">A4 хэвлэх үед browser-ийн print командыг ашиглана.</p>
+  <img src="assets/posters/stroke.png" alt="Тархины цус харвалт — A4 poster">
+</div>

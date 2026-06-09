@@ -1,6 +1,20 @@
 ---
-title: "QR татах"
+title: "QR / Хэвлэх"
 ---
 
-QR кодуудыг харах бол [QR татах](qr-codes.html) хэсэг рүү орно уу.
+# QR / Хэвлэх
 
+<div class="info">Энэ хэсэгт зөвхөн үндсэн сайт болон A4 эрүүл мэндийн poster-уудын QR байрлана.</div>
+
+<div class="qr-grid">
+<div class='qr-card'><img src='qr/home.png' alt='Үндсэн сайт QR'><h3>Үндсэн сайт</h3><a href='index.html'>Нээх</a></div><div class='qr-card'><img src='qr/print-stroke.png' alt='Тархины цус харвалт A4 QR'><h3>Тархины цус харвалт — A4 poster</h3><a href='print-stroke.html'>Poster нээх</a></div><div class='qr-card'><img src='qr/print-heart-attack.png' alt='Зүрхний шигдээс A4 QR'><h3>Зүрхний шигдээс — A4 poster</h3><a href='print-heart-attack.html'>Poster нээх</a></div><div class='qr-card'><img src='qr/print-epilepsy.png' alt='Эпилепси A4 QR'><h3>Эпилепси — A4 poster</h3><a href='print-epilepsy.html'>Poster нээх</a></div><div class='qr-card'><img src='qr/print-kidney-failure.png' alt='Бөөрний дутагдал A4 QR'><h3>Бөөрний дутагдал — A4 poster</h3><a href='print-kidney-failure.html'>Poster нээх</a></div><div class='qr-card'><img src='qr/print-autism.png' alt='Аутизм ба хөгжлийн дэмжлэг A4 QR'><h3>Аутизм ба хөгжлийн дэмжлэг — A4 poster</h3><a href='print-autism.html'>Poster нээх</a></div><div class='qr-card'><img src='qr/print-post-stroke-exercises.png' alt='Харвалтын дараах дасгал A4 QR'><h3>Харвалтын дараах дасгал — A4 poster</h3><a href='print-post-stroke-exercises.html'>Poster нээх</a></div><div class='qr-card'><img src='qr/print-pressure-injury.png' alt='Холголт, цооролт A4 QR'><h3>Холголт, цооролт — A4 poster</h3><a href='print-pressure-injury.html'>Poster нээх</a></div>
+</div>
+
+
+<div class="site-footer">
+  <img src="assets/logo/ninjin_manal_logo_transparent.png" alt="Нинжин манал ӨЭМТ лого">
+  <div><strong>Нинжин манал ӨЭМТ</strong><br>
+  <span>Оюуны өмч: © АШУҮИС, оюутан Ш.Жамсранжамц</span><br>
+  <span>Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй.</span><br>
+  <a href="https://www.facebook.com/profile.php?id=61575824979556" target="_blank" rel="noopener">Facebook хуудас</a></div>
+</div>

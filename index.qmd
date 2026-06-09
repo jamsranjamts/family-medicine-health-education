@@ -1,77 +1,76 @@
 ---
-title: "Нинжин манал ӨЭМТ"
-subtitle: "Өрхийн эрүүл мэндийн боловсролын цахим зөвлөмж"
+title: "Нүүр"
 ---
 
-<div class="nm-hero">
-<div>
-<div class="nm-eyebrow">Олон нийтэд зориулсан эрүүл мэндийн мэдээлэл</div>
-<div class="nm-title-large">Эрүүл мэндийн зөвлөмжийг QR-аар уншаарай</div>
-<p class="nm-lead">Тархины харвалт, зүрхний шигдээс, эпилепси, бөөрний эрүүл мэнд, аутизмын дэмжлэг, харвалтын дараах дасгал, холголт цооролтоос сэргийлэх зөвлөмжийг нэг дороос унших боломжтой.</p>
-<div class="nm-badges"><span class="nm-badge">103 — яаралтай тусламж</span><span class="nm-badge">A4 хэвлэх хувилбар</span><span class="nm-badge">QR кодтой</span></div>
-</div>
-<div class="nm-logo-panel"><img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo"></div>
+<div class="hero">
+  <img src="assets/logo/ninjin_manal_logo_transparent.png" alt="Нинжин манал ӨЭМТ лого">
+  <div>
+    <div class="hero-title">Нинжин манал ӨЭМТ</div>
+    <p class="hero-subtitle">Иргэдэд зориулсан эрүүл мэндийн боловсрол, урьдчилан сэргийлэх зөвлөмжийн цахим хуудас.</p>
+    <div class="actions">
+      <a class="btn" href="#health-topics">Эрүүл мэндийн зөвлөмж</a>
+      <a class="btn" href="downloads.html">QR / Хэвлэх</a>
+    </div>
+  </div>
 </div>
 
-## Сэдвүүд
+## Байгууллагын танилцуулга
+
+<div class="grid-2">
+  <div class="card">
+    <h3>Нинжин манал ӨЭМТ</h3>
+    <p>Нинжин манал ӨЭМТ нь Баянзүрх дүүргийн 39-р хорооны иргэдэд анхан шатны эрүүл мэндийн тусламж, үйлчилгээ үзүүлдэг өрхийн эрүүл мэндийн төв юм.</p>
+    <p><a class="btn" href="organization.html">Дэлгэрэнгүй танилцуулга</a></p>
+    <div class="mini-actions">
+      <a class="fb-btn mini-btn" href="https://www.facebook.com/profile.php?id=61575824979556" target="_blank" rel="noopener"><span class="fb-icon">f</span> Facebook</a>
+      <a class="map-btn mini-btn" href="https://maps.app.goo.gl/ckenjwdCebmAd59W8" target="_blank" rel="noopener"><span class="map-icon">📍</span> Google Maps</a>
+    </div>
+  </div>
+  <div><img class="team-photo" src="assets/images/team.jpg" alt="Нинжин манал ӨЭМТ багийн зураг"></div>
+</div>
+
+<div class="grid-3" style="margin-top:1rem;">
+  <div class="stat"><strong>125 м²</strong><span>үйл ажиллагааны талбай</span></div>
+  <div class="stat"><strong>8131</strong><span>хамрагдах хүн ам</span></div>
+  <div class="stat"><strong>42</strong><span>хамрагдах байр</span></div>
+</div>
+
+## Эрхэм зорилго
+
+<div class="mission"><strong>Чадварлаг эмч мэргэжилтнүүд дэвшилтэд технологид тулгуурлан, үйлчлүүлэгчийн хэрэгцээг хангасан тэгш хүртээмжтэй тусламж, үйлчилгээг үзүүлнэ.</strong></div>
+
+## Бидний уриа
+
+<div class="success"><strong>Хүний төлөө - чадварлаг баг</strong></div>
+
+## Сэтгэл ханамжийн судалгаа
+
+<div class="survey-grid">
+  <img src="assets/satisfaction/satisfaction_qr.png" alt="Сэтгэл ханамжийн судалгааны QR">
+  <div class="card">
+    <h3>Үйлчилгээний талаарх санал хүсэлт</h3>
+    <p>Амбулаториор үйлчлүүлэгчийн сэтгэл ханамжийн судалгаанд QR уншуулж оролцоно уу.</p>
+    <p><a class="btn" href="https://sudalgaa.1313.mn/forms/39/1" target="_blank" rel="noopener">Судалгаа бөглөх</a></p>
+  </div>
+</div>
+
+## Эрүүл мэндийн зөвлөмжүүд {#health-topics}
 
 <div class="topic-grid">
-<div class="topic-card">
-<div class="icon">🧠</div>
-<h3>Тархины цус харвалт</h3>
-<p>Нүүр мурийх, гар сулрах, хэл яриа өөрчлөгдөх шинжийг таньж, цаг алдалгүй тусламж дуудах.</p>
-<a href="stroke.html">Дэлгэрэнгүй</a>
-</div>
-<div class="topic-card">
-<div class="icon">❤️</div>
-<h3>Зүрхний шигдээс</h3>
-<p>Цээжээр дарах, базлах, амьсгаадах, зүүн гар, эрүү, нуруу руу өвдөлт дамжих үед яаралтай хандана.</p>
-<a href="heart-attack.html">Дэлгэрэнгүй</a>
-</div>
-<div class="topic-card">
-<div class="icon">🟣</div>
-<h3>Эпилепси</h3>
-<p>Таталтын үед хүнийг аюулгүй байрлуулж, ам руу нь юм хийхгүй, 5 минутаас дээш үргэлжилбэл 103 дуудна.</p>
-<a href="epilepsy.html">Дэлгэрэнгүй</a>
-</div>
-<div class="topic-card">
-<div class="icon">🩺</div>
-<h3>Бөөрний дутагдал</h3>
-<p>Даралт, сахар, шээсний шинжилгээ, бөөрний үйл ажиллагааг тогтмол хянах нь бөөр хамгаална.</p>
-<a href="kidney-failure.html">Дэлгэрэнгүй</a>
-</div>
-<div class="topic-card">
-<div class="icon">🧩</div>
-<h3>Аутизм ба дэмжих засал</h3>
-<p>Хэл яриа, харилцаа, хөдөлгөөн, өдөр тутмын чадварыг эрт үеэс дэмжих нь хүүхдийн хөгжилд чухал.</p>
-<a href="autism.html">Дэлгэрэнгүй</a>
-</div>
-<div class="topic-card">
-<div class="icon">🚶</div>
-<h3>Харвалтын дараах дасгал</h3>
-<p>Саажилтын үед дасгалыг аюулгүй, бага багаар, тогтмол хийж, уналтаас сэргийлнэ.</p>
-<a href="post-stroke-exercises.html">Дэлгэрэнгүй</a>
-</div>
-<div class="topic-card">
-<div class="icon">🛏️</div>
-<h3>Холголт, цооролт</h3>
-<p>Удаан хэвтрийн үед арьс дарагдахаас сэргийлж байрлал солих, арьсыг шалгах, хуурай цэвэр байлгах.</p>
-<a href="pressure-injury.html">Дэлгэрэнгүй</a>
-</div>
+<div class='topic-card'><h3>Тархины цус харвалт</h3><p>Хурдан таньж, яаралтай тусламж аваарай</p><a href='stroke.html'>Дэлгэрэнгүй →</a></div><div class='topic-card'><h3>Зүрхний шигдээс</h3><p>Цээжний өвдөлтийг үл тоомсорлож болохгүй</p><a href='heart-attack.html'>Дэлгэрэнгүй →</a></div><div class='topic-card'><h3>Эпилепси</h3><p>Таталтын үед тайван, зөв тусламж үзүүлье</p><a href='epilepsy.html'>Дэлгэрэнгүй →</a></div><div class='topic-card'><h3>Бөөрний дутагдал</h3><p>Даралт, сахар, шинжилгээгээ тогтмол хяная</p><a href='kidney-failure.html'>Дэлгэрэнгүй →</a></div><div class='topic-card'><h3>Аутизм ба хөгжлийн дэмжлэг</h3><p>Эрт дэмжлэг — хүүхдийн хөгжлийг дэмжинэ</p><a href='autism.html'>Дэлгэрэнгүй →</a></div><div class='topic-card'><h3>Харвалтын дараах дасгал</h3><p>Аюулгүй, аажмаар, тогтмол хөдөлгөөн хийе</p><a href='post-stroke-exercises.html'>Дэлгэрэнгүй →</a></div><div class='topic-card'><h3>Холголт, цооролт</h3><p>Арьсаа хамгаалж, байрлалаа тогтмол сольё</p><a href='pressure-injury.html'>Дэлгэрэнгүй →</a></div>
 </div>
 
-## Хэвлэх болон QR ашиглах
+## Байршил
 
-<div class="section-box">Сэдэв бүрийн үндсэн хуудас болон A4 хэвлэх хувилбар тус бүрт QR код үүсгэсэн. QR татах хэсгээс зураг хэлбэрээр авч хэвлэх боломжтой.</div>
-
-
+<div class="grid-2">
+  <div><img class="map-img" src="assets/images/location_map.jpg" alt="Нинжин манал ӨЭМТ байршил"></div>
+  <div class="card"><h3>БЗД 39-р хороо</h3><p>Нинжин манал ӨЭМТ-ийн байршлыг Google Maps дээр шууд харах боломжтой.</p><p><a class="map-btn" href="https://maps.app.goo.gl/ckenjwdCebmAd59W8" target="_blank" rel="noopener"><span class="map-icon">📍</span> Google Maps нээх</a></p></div>
+</div>
 
 <div class="site-footer">
-<img src="assets/logo/ninjin_manal_logo.png" alt="Нинжин манал ӨЭМТ logo">
-<div>
-<p><strong>Нинжин манал ӨЭМТ</strong></p>
-<p>© АШУҮИС, оюутан Ш.Жамсранжамц</p>
-<p class="disclaimer">Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй. Яаралтай шинж илэрвэл 103 болон ойролцоох эрүүл мэндийн байгууллагад хандана уу.</p>
+  <img src="assets/logo/ninjin_manal_logo_transparent.png" alt="Нинжин манал ӨЭМТ лого">
+  <div><strong>Нинжин манал ӨЭМТ</strong><br>
+  <span>Оюуны өмч: © АШУҮИС, оюутан Ш.Жамсранжамц</span><br>
+  <span>Энэхүү мэдээлэл нь олон нийтийн эрүүл мэндийн боловсролд зориулагдсан бөгөөд эмчийн үзлэг, оношилгоо, эмчилгээг орлохгүй.</span><br>
+  <a href="https://www.facebook.com/profile.php?id=61575824979556" target="_blank" rel="noopener">Facebook хуудас</a></div>
 </div>
-</div>
-
